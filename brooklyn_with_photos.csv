@@ -1,0 +1,1014 @@
+rental_id,rent,bedrooms,bathrooms,size_sqft,min_to_subway,floor,building_age_yrs,no_fee,has_roofdeck,has_washer_dryer,has_doorman,has_elevator,has_dishwasher,has_patio,has_gym,neighborhood,borough,photo_url
+2869,3600,3.0,2,900,4,1.0,15,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/646345110757633691.jpg
+4318,3900,3.0,2,1000,4,9.0,8,0,0,0,0,1,0,0,0,Greenwood,Brooklyn,/photos/entrance/601.jpg
+6265,2700,2.0,1,900,4,2.0,96,0,0,0,0,0,0,0,0,Gowanus,Brooklyn,/photos/interior/3907403545266788460.jpg
+24,4900,1.0,1,1216,6,3.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/549379022393871105.jpg
+9481,3900,0.0,1,1100,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1279427025081363953.jpg
+849,2750,1.0,1,700,12,3.0,9,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/entrance/1229.jpg
+6029,2700,2.0,1,750,7,14.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/1192.jpg
+3686,4905,2.0,2,1114,6,5.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/5395684097364116309.jpg
+7616,2000,1.0,1,700,4,2.0,85,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5022649063174667141.jpg
+863,3200,1.0,1,800,5,3.0,27,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/interior/245528693142303934.jpg
+8742,2950,2.0,1,1000,4,3.0,85,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/371.jpg
+9103,1950,2.0,1,950,5,2.0,75,0,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/interior/5909830230482484622.jpg
+10632,1799,1.0,1,650,7,3.0,8,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/windows/724.jpg
+3887,5317,2.0,2,981,3,5.0,85,1,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/2013212778633116309.jpg
+4544,2300,2.0,1,750,14,1.0,85,0,0,0,0,0,0,0,0,Red Hook,Brooklyn,/photos/windows/247.jpg
+1026,2400,0.0,1,450,1,30.0,9,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/1231547270080462394.jpg
+2201,3045,1.0,1,589,1,3.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/8159879894607832087.jpg
+5050,3790,1.0,1,681,2,7.0,90,1,1,1,1,1,0,0,1,Downtown Brooklyn,Brooklyn,/photos/entrance/1173.jpg
+10876,2500,0.0,1,525,7,4.0,66,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/9193658665682191202.jpg
+5912,2600,3.0,1,1200,5,3.0,91,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/7245791377504485592.jpg
+6233,3226,1.0,1,976,3,5.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/entrance/267.jpg
+726,4995,2.0,2,1251,5,4.0,8,0,1,1,0,0,1,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2450285226555168299.jpg
+5075,6950,3.0,2,1172,3,4.0,85,1,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/8595959968828170466.jpg
+3104,3500,3.0,1,950,5,2.0,115,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4047160339221722521.jpg
+1387,3080,1.0,1,655,7,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/6599862258271216055.jpg
+8676,6992,2.0,2,1213,2,7.0,0,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3972147729453054907.jpg
+9776,6000,4.0,2,1800,3,2.0,56,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/460.jpg
+8940,2700,2.0,2,750,11,2.0,96,0,0,0,0,0,0,0,0,Columbia St Waterfront District,Brooklyn,/photos/windows/653.jpg
+7240,4246,2.0,2,1100,4,6.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3860856214752467552.jpg
+1388,2299,3.0,1,1000,8,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/722594910797491965.jpg
+7568,2400,1.5,1,750,5,2.0,88,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/528.jpg
+7968,2485,1.0,1,703,10,5.0,3,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/5214222682089172917.jpg
+6408,4000,1.0,2,900,3,1.0,106,1,1,1,1,1,1,0,1,Williamsburg,Brooklyn,/photos/flat_plans/7860489153381538605.jpg
+7191,2995,4.0,1,2000,5,1.0,4,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/3801446293339833461.jpg
+2291,1500,1.0,1,800,6,3.0,52,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/flat_plans/400091280154710635.jpg
+508,4370,2.0,2,933,1,25.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/612698710011270463.jpg
+8094,2400,2.0,1,800,8,2.0,111,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/5699532907555186707.jpg
+5659,3200,1.0,1,701,10,13.0,6,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/entrance/865.jpg
+4123,3500,4.0,2,1500,7,1.0,86,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/1065.jpg
+5977,1600,1.5,1,800,3,3.0,109,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/8821382960544768460.jpg
+10259,1650,1.0,1,686,6,4.0,57,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/interior/354959757354576951.jpg
+4857,2600,3.0,1,800,3,1.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1474328760097581979.jpg
+10421,2400,1.0,1,875,2,2.0,85,0,0,0,0,0,0,0,0,Gowanus,Brooklyn,/photos/windows/501.jpg
+4540,1800,1.5,1,1000,2,2.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/53.jpg
+8302,2295,1.5,1,600,4,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/330.jpg
+10395,4700,3.0,2,1300,4,3.0,85,1,1,0,1,1,0,0,1,Williamsburg,Brooklyn,/photos/flat_plans/2738551740982694718.jpg
+2915,1875,0.0,1,460,7,1.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/windows/215.jpg
+3611,2900,2.0,1,756,3,2.0,9,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/5576642275240728440.jpg
+9558,3600,3.0,1,1000,2,4.0,86,1,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/entrance/38.jpg
+1997,2450,1.0,1,800,5,3.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/7879592922149331331.jpg
+8915,3200,2.0,1,1000,3,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/2431393774057700123.jpg
+1471,3300,1.0,1,974,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1021889459683644254.jpg
+1656,8900,3.0,2,2000,8,3.0,102,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8775079820194340666.jpg
+2972,2195,0.0,1,550,3,4.0,85,1,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/flat_plans/2370576070885835763.jpg
+4182,2900,1.0,1,662,1,4.0,9,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/1260666061735413146.jpg
+7807,2400,3.0,1,1100,3,4.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/4841053399590495008.jpg
+7036,2000,2.0,1,850,8,5.0,80,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/flat_plans/6225333810970282490.jpg
+6236,3100,1.0,1,820,1,10.0,96,1,1,1,1,1,1,0,1,Downtown Brooklyn,Brooklyn,/photos/entrance/1025.jpg
+7906,1650,1.0,1,620,1,1.0,90,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/windows/967.jpg
+780,3090,1.0,1,675,1,16.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/499.jpg
+7915,4120,2.0,2,917,7,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7742005855256427147.jpg
+9384,4079,2.0,2,1154,10,14.0,6,1,1,1,0,1,1,1,1,Clinton Hill,Brooklyn,/photos/flat_plans/3848143702441156938.jpg
+10586,1984,1.0,1,761,6,55.0,89,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/windows/637.jpg
+802,2745,0.0,1,476,1,37.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/4979077222546099019.jpg
+10047,1695,1.0,1,700,7,3.0,53,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/flat_plans/9025436274008940593.jpg
+10653,2850,1.0,1,800,7,3.0,12,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/509809001582993309.jpg
+10587,2123,1.0,1,720,6,58.0,89,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/windows/580.jpg
+1189,2250,1.0,0,700,9,1.0,85,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/1979290234200437628.jpg
+8860,4995,2.0,2,1400,2,6.0,96,1,0,1,1,0,0,0,1,DUMBO,Brooklyn,/photos/windows/1139.jpg
+3194,2600,0.0,1,469,1,39.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/7345009797395302840.jpg
+10238,5300,2.0,2,1211,9,6.0,0,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/buildings/6941258965033980850.jpg
+11053,3786,2.0,1,958,3,6.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/1677721102201100457.jpg
+8870,5300,2.0,1,1020,6,3.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/693360225654714709.jpg
+5046,2900,3.0,1,1500,1,2.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/1128697290412230451.jpg
+5637,2975,1.0,1,701,10,4.0,6,1,0,0,1,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/2337565979658184045.jpg
+7844,1500,1.0,1,600,6,3.0,85,0,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/interior/401869638642771402.jpg
+7834,4000,1.5,1,828,5,26.0,6,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/614.jpg
+410,2200,0.0,1,400,5,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/598.jpg
+9119,6300,2.0,2,1217,0,6.0,116,0,0,1,1,1,1,0,1,Brooklyn Heights,Brooklyn,/photos/flat_plans/6361670275431186564.jpg
+4892,2400,0.0,1,450,7,2.0,15,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/163.jpg
+28,2350,1.0,1,550,2,2.0,88,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/128.jpg
+10374,5145,2.0,2,1106,1,21.0,17,1,0,0,0,1,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/2953222009477192457.jpg
+7360,2900,0.0,1,582,1,4.0,10,0,0,1,1,1,0,0,1,DUMBO,Brooklyn,/photos/flat_plans/4430622066769395970.jpg
+9782,1400,1.0,0,650,7,11.0,92,0,0,0,0,0,0,0,0,Brownsville,Brooklyn,/photos/flat_plans/498958201789429325.jpg
+9831,2900,3.0,2,1335,5,4.0,9,0,0,0,1,1,1,0,0,Gravesend,Brooklyn,/photos/flat_plans/504969422002646168.jpg
+7586,1995,1.0,1,1000,2,5.0,83,0,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/interior/4584856553655443732.jpg
+8103,2650,2.0,1,800,2,3.0,106,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/buildings/6179330174540792212.jpg
+1442,2300,1.0,1,1000,7,1.0,107,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/buildings/2625984262717517812.jpg
+3488,5000,2.0,2,1124,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/976.jpg
+1405,5195,2.0,2,1085,6,4.0,8,1,0,1,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/7495181783372767398.jpg
+3525,3600,0.0,1,1088,5,8.0,90,0,1,1,0,1,1,0,1,Downtown Brooklyn,Brooklyn,/photos/entrance/1013.jpg
+1069,4850,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/276522078557562379.jpg
+5422,3500,3.0,1,914,5,1.0,85,0,0,1,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/5404434223667815973.jpg
+3845,3800,2.0,2,863,5,6.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6558820382122976667.jpg
+2054,2575,0.0,1,503,1,41.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/1624931254276476798.jpg
+6427,3000,2.0,1,1400,1,2.0,117,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/entrance/146.jpg
+10257,2200,0.0,1,522,11,4.0,88,0,0,0,0,0,1,0,0,Carroll Gardens,Brooklyn,/photos/interior/6641743507167968119.jpg
+11207,2428,2.0,1,1092,5,13.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/interior/7576382663778551997.jpg
+9572,1600,0.0,1,550,6,3.0,81,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/interior/1156180407799466852.jpg
+2050,4488,2.0,2,930,3,4.0,4,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6096651749671892657.jpg
+9207,4950,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4351638592020453213.jpg
+6256,3495,0.0,1,815,6,4.0,88,1,0,0,0,1,0,0,0,Brooklyn Heights,Brooklyn,/photos/flat_plans/1634349107896968881.jpg
+8446,1950,0.0,1,431,3,6.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/3897064031623347367.jpg
+9288,3500,1.0,1,751,4,3.0,5,1,0,0,0,1,1,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5502883494613152086.jpg
+6043,2650,2.0,2,1073,7,4.0,96,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/interior/4116048903522357396.jpg
+10258,5050,2.0,2,1071,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/4481214615238263213.jpg
+11343,2200,2.0,1,1200,3,4.0,103,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/interior/8355103767267373098.jpg
+7784,2150,2.0,1,900,5,3.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/859.jpg
+9306,15750,3.0,3,3056,4,6.0,96,0,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/buildings/4396970050446168827.jpg
+7846,4215,2.0,2,976,1,23.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/960.jpg
+10873,2348,1.0,1,760,1,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3768680670707550649.jpg
+6714,1581,0.0,1,513,5,12.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/windows/380.jpg
+8220,2850,3.0,2,1500,7,2.0,11,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/4476424960096666526.jpg
+4250,3171,1.0,1,711,1,29.0,9,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/863108769509747558.jpg
+6353,3300,2.0,1,795,2,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/windows/596.jpg
+7296,3225,2.0,1,1200,3,6.0,87,1,0,0,0,0,0,0,0,Windsor Terrace,Brooklyn,/photos/flat_plans/1281748104784909085.jpg
+10592,3000,2.0,1,700,1,3.0,108,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/1355.jpg
+6294,1675,1.0,1,805,4,4.0,59,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/flat_plans/3232724890645860964.jpg
+3843,2225,0.0,1,536,5,1.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/725.jpg
+3151,5800,1.0,1,1293,5,10.0,100,0,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/3474093392521725679.jpg
+5286,1550,1.0,1,625,7,9.0,94,1,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/entrance/1358.jpg
+8157,5346,2.0,1,842,5,6.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/9035748313711959321.jpg
+2282,3155,1.0,1,677,1,29.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/816.jpg
+6037,2400,2.0,1,700,1,1.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/1114.jpg
+8853,2250,1.0,1,611,2,9.0,9,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/buildings/8908537481397861307.jpg
+8771,2500,0.0,1,634,6,3.0,11,0,0,1,1,1,1,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/9151086733562874536.jpg
+5642,1500,0.0,0,400,2,1.0,103,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/6293878624949417627.jpg
+6134,11000,4.0,3,3243,2,29.0,89,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/windows/1120.jpg
+3551,3800,2.0,1,1312,12,1.0,9,1,0,0,1,1,1,0,0,Clinton Hill,Brooklyn,/photos/buildings/8708960712864228074.jpg
+844,2395,3.0,1,1000,2,3.0,101,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/windows/636.jpg
+6986,2395,3.0,1,950,4,3.0,109,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/7056786895964121375.jpg
+3155,3200,3.0,1,1000,2,3.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/56381105586277147.jpg
+4807,4550,2.0,1,1200,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/720.jpg
+7660,4615,2.0,2,922,1,16.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/597.jpg
+591,2850,2.0,1,850,1,3.0,13,1,0,0,0,0,1,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/3322760251346599413.jpg
+4106,2800,4.0,1,1000,6,1.0,110,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/6084785330273937009.jpg
+10918,3000,1.0,1,731,5,6.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/1460562985112854748.jpg
+1681,3900,2.0,2,914,3,2.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8623086568892979076.jpg
+7506,2814,0.0,1,615,8,5.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3025286076938574929.jpg
+1898,5299,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/527213207791474098.jpg
+1361,1550,1.0,1,650,3,2.0,106,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/3690614071012477011.jpg
+6177,2200,1.0,1,475,1,3.0,85,0,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/entrance/1013.jpg
+4284,6875,3.0,2,1200,3,6.0,1,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4118400900725548246.jpg
+8921,2978,1.0,1,657,2,33.0,3,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/windows/604.jpg
+4485,5550,2.0,2,1132,1,47.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/4603326526579716534.jpg
+6860,1400,0.0,1,550,5,5.0,63,1,0,0,0,0,0,0,0,Ocean Parkway,Brooklyn,/photos/buildings/18088217352403891.jpg
+10511,3875,2.0,2,1100,7,12.0,6,1,1,0,0,1,1,0,1,Downtown Brooklyn,Brooklyn,/photos/flat_plans/4709870618367740397.jpg
+6958,1650,1.0,1,800,3,3.0,85,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/5598287006771997916.jpg
+10119,4800,2.0,2,1208,6,16.0,11,1,0,1,0,0,0,1,0,Downtown Brooklyn,Brooklyn,/photos/buildings/3605369092463459426.jpg
+5789,1750,1.0,1,500,2,3.0,85,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/entrance/1175.jpg
+75,3305,0.0,1,515,3,6.0,16,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/windows/308.jpg
+9192,3300,2.0,1,743,12,3.0,9,1,1,0,1,1,1,0,1,Clinton Hill,Brooklyn,/photos/interior/4284717768357990210.jpg
+5179,4695,2.0,2,862,5,3.0,8,1,1,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8204265849588326363.jpg
+9058,2200,1.0,1,750,5,5.0,86,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/362.jpg
+5091,3070,1.0,1,613,9,10.0,4,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/9006548092323217046.jpg
+5853,3445,1.0,1,617,6,4.0,92,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/buildings/3175819586560000220.jpg
+9687,2250,2.0,1,733,3,4.0,100,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/interior/6800516782468274372.jpg
+7347,1775,1.0,1,750,10,4.0,65,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/interior/5359300564012521000.jpg
+2626,4675,2.0,2,1098,3,2.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1295.jpg
+2691,3795,2.0,1,770,3,8.0,2,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/4332439497777997017.jpg
+6003,5000,2.0,2,1124,4,4.0,10,0,1,1,0,1,0,0,0,DUMBO,Brooklyn,/photos/windows/1368.jpg
+8966,4695,2.0,2,1100,7,10.0,5,1,1,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/7695344670641634587.jpg
+7913,3348,0.0,1,426,5,16.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/5014766836703540927.jpg
+6620,2395,3.0,1,950,4,1.0,109,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/7442995464462109332.jpg
+7612,2970,1.0,1,677,1,15.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/7639609799036238654.jpg
+2679,2840,0.0,1,505,1,44.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/3420999917393718737.jpg
+6768,3000,1.0,1,930,2,2.0,11,0,0,1,0,0,1,0,0,Williamsburg,Brooklyn,/photos/interior/4081264951540838145.jpg
+3406,3461,1.0,1,725,2,23.0,3,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/1460562985112854748.jpg
+8116,2450,1.0,1,750,1,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2912725234118534950.jpg
+4298,2599,2.0,1,800,5,1.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1229.jpg
+62,2100,1.0,1,900,7,1.0,13,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/9109105717195450187.jpg
+6732,1950,0.0,1,521,2,2.0,2,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/entrance/680.jpg
+10788,3900,1.0,1,865,10,6.0,116,0,0,1,0,1,1,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6224936186654965853.jpg
+10850,2300,2.0,1,1000,7,6.0,55,0,1,0,1,0,1,0,0,Bay Ridge,Brooklyn,/photos/interior/4254827031475355527.jpg
+2690,2300,1.0,1,750,4,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/1145.jpg
+7383,3000,3.0,1,1000,14,1.0,96,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/buildings/8402062019847538239.jpg
+6544,2400,2.0,1,700,4,4.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/1640280331941473010.jpg
+4639,1350,1.0,1,750,7,9.0,92,0,0,0,0,0,0,0,0,Brownsville,Brooklyn,/photos/buildings/3914037770431230930.jpg
+10629,3400,3.0,2,1500,5,1.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/buildings/708103567695917962.jpg
+9672,2150,1.0,1,650,5,2.0,86,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/1337.jpg
+470,2575,0.0,1,725,2,4.0,85,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/6555002367721164794.jpg
+5941,2995,1.0,1,765,9,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/1753530274128157144.jpg
+9601,6000,3.0,2,1798,1,13.0,88,0,0,1,0,0,1,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/8829196223026184467.jpg
+5135,2850,3.0,2,1500,7,2.0,11,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/609.jpg
+9435,1325,0.0,1,300,1,3.0,85,0,0,0,0,0,0,0,0,Sunset Park,Brooklyn,/photos/entrance/659.jpg
+11061,2650,1.0,1,600,7,2.0,117,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/6908426905566267454.jpg
+3096,4595,3.0,1,1000,7,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/7846705950876499113.jpg
+9747,2799,1.0,1,700,6,2.0,11,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/498.jpg
+9067,2200,2.0,1,800,3,2.0,115,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/buildings/4113457319564205129.jpg
+8078,3800,1.0,1,1000,3,4.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/874126307692487140.jpg
+6169,4361,3.0,1,914,3,2.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2036094058323488089.jpg
+5034,1900,2.0,1,900,4,1.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8332110454386206571.jpg
+7500,3200,1.0,1,796,2,2.0,96,0,0,1,1,1,0,0,1,DUMBO,Brooklyn,/photos/flat_plans/6457575541236727531.jpg
+1151,3300,2.0,1,1300,3,2.0,85,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/495091876048398436.jpg
+9801,2650,1.0,1,750,1,2.0,92,1,0,1,0,1,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/823.jpg
+189,4299,1.0,1,901,6,10.0,88,0,1,0,1,1,0,0,1,Brooklyn Heights,Brooklyn,/photos/flat_plans/5259355799616054560.jpg
+2590,2400,3.0,1,900,3,4.0,102,0,0,0,0,0,0,0,0,Ditmas Park,Brooklyn,/photos/interior/1039512381995791722.jpg
+402,2640,0.0,1,472,6,5.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5106841219679847538.jpg
+8119,2300,0.0,1,550,2,4.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/4898527672984903897.jpg
+6987,2400,0.0,1,500,6,12.0,7,0,1,1,1,1,1,0,1,Downtown Brooklyn,Brooklyn,/photos/flat_plans/913254115154468592.jpg
+3543,2300,0.0,1,550,7,5.0,6,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/5900505634441818637.jpg
+3656,2950,1.0,1,660,14,4.0,96,1,0,0,0,0,1,0,0,Columbia St Waterfront District,Brooklyn,/photos/interior/7856249074779203022.jpg
+10845,2300,3.0,1,850,7,1.0,92,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/interior/3936089836910994556.jpg
+3805,2600,1.0,1,655,5,2.0,5,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/windows/440.jpg
+1268,3385,3.0,2,1175,4,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/3499718153438147169.jpg
+6298,1800,1.0,1,779,8,4.0,86,1,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/windows/1155.jpg
+7277,4500,2.0,1,1571,5,6.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/4584576269873728257.jpg
+3111,4595,2.0,2,1088,7,10.0,5,1,1,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/92613597874052915.jpg
+480,2760,1.0,1,405,4,4.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/341.jpg
+7967,2530,1.0,1,701,10,6.0,3,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/4937569873698120973.jpg
+8122,2495,3.0,1,900,1,3.0,9,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/9080843219816675833.jpg
+9321,3495,1.0,1,882,5,3.0,6,0,0,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/interior/4476318477635712910.jpg
+3520,3850,2.0,2,1127,3,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4139962477854594433.jpg
+10853,13500,4.0,3,2364,6,5.0,8,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/buildings/6388098808215458900.jpg
+8284,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8260155888214462925.jpg
+5896,2500,0.0,1,525,7,3.0,66,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/228989771477653582.jpg
+4972,3500,2.0,1,1000,11,3.0,116,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4236125450693516552.jpg
+2773,4195,2.0,2,886,8,2.0,3,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/449.jpg
+9208,9400,3.0,2,1274,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6700643247637874971.jpg
+2864,2550,2.0,1,790,2,2.0,9,1,0,1,1,1,0,0,1,Bushwick,Brooklyn,/photos/interior/1397735130878367669.jpg
+4524,5100,2.0,2,1123,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3273746409777495068.jpg
+3050,3369,1.0,1,717,4,9.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4135319472176769415.jpg
+216,2775,2.0,1,675,2,3.0,85,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1425730195951918875.jpg
+1033,3029,1.0,1,655,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/108.jpg
+3715,4800,3.0,2,1500,7,1.0,106,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/710.jpg
+4904,5295,2.0,2,1254,1,19.0,10,0,0,0,0,0,0,1,1,DUMBO,Brooklyn,/photos/interior/4166165190217074205.jpg
+1945,2395,1.0,1,700,6,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/1203.jpg
+9125,2995,1.0,2,1000,4,4.0,3,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/892.jpg
+9802,5250,3.0,2,1300,4,7.0,7,1,1,1,0,0,1,0,0,Clinton Hill,Brooklyn,/photos/interior/2244024353399213628.jpg
+7117,2975,0.0,1,605,5,23.0,6,0,0,0,0,1,1,0,1,Williamsburg,Brooklyn,/photos/windows/725.jpg
+11244,4795,3.0,1,1100,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6909027858968684321.jpg
+7349,2450,2.0,1,1000,7,2.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/7280306956318375503.jpg
+10394,4500,3.0,1,1000,4,1.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/969.jpg
+7196,2650,2.0,1,777,4,1.0,15,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/flat_plans/1508424702083986500.jpg
+7813,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6196061416941509077.jpg
+3372,3100,3.0,1,710,9,2.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/buildings/3960115522402636385.jpg
+3658,3370,1.0,1,677,1,20.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/3511447588648055355.jpg
+5078,1832,1.0,1,690,5,11.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/interior/3663681178362449181.jpg
+2030,6500,1.0,1,1000,8,2.0,51,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8508211940363193820.jpg
+5681,2780,0.0,1,520,5,2.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/633.jpg
+6501,3067,2.0,1,775,9,3.0,106,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/38.jpg
+10672,1600,0.0,1,500,6,10.0,54,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/flat_plans/738370998897479578.jpg
+8922,2650,0.0,1,516,2,12.0,3,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/6230079465177453348.jpg
+8680,3375,1.0,1,750,1,40.0,3,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/6326120653831177792.jpg
+1363,2850,1.0,1,825,12,3.0,9,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/8677838363661212932.jpg
+4886,3994,2.0,1,800,7,3.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3649631072222590148.jpg
+7756,3875,2.0,3,1274,5,4.0,11,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/6227309503630004075.jpg
+9205,3600,1.0,1,1100,4,4.0,96,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/7260260922208394540.jpg
+2467,3500,2.0,2,1014,4,5.0,9,0,0,0,0,0,0,0,0,Ditmas Park,Brooklyn,/photos/buildings/7608098522237865034.jpg
+865,2615,0.0,1,430,1,24.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/642637742226095761.jpg
+10910,2200,1.0,1,825,3,6.0,54,0,0,0,0,0,0,0,0,Ditmas Park,Brooklyn,/photos/entrance/676.jpg
+3375,3120,1.0,1,677,1,28.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/667.jpg
+2914,3299,3.0,1,972,7,3.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/8408355921552862238.jpg
+8109,3000,1.0,1,676,5,12.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/2252679622099526720.jpg
+4762,4545,2.0,2,852,3,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/211.jpg
+10825,1400,0.0,1,550,2,4.0,87,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/flat_plans/7904025195935333890.jpg
+1425,3300,2.0,1,626,3,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1068.jpg
+5807,5995,2.0,2,1179,5,26.0,6,0,0,0,1,1,0,0,1,Williamsburg,Brooklyn,/photos/entrance/1264.jpg
+4248,1900,2.0,1,800,7,3.0,85,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/windows/266.jpg
+5040,2630,0.0,1,408,5,9.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/8217063654119676799.jpg
+6856,1895,2.0,1,930,6,5.0,57,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/windows/477.jpg
+776,1895,2.0,1,750,4,2.0,107,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/3142076210495162584.jpg
+6622,4500,3.0,1,1500,2,1.0,6,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/7951679258988797065.jpg
+7815,4095,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4082624703403376855.jpg
+6557,3400,1.0,1,723,8,3.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5641922491452955380.jpg
+10127,2775,2.0,1,850,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/1288.jpg
+544,2700,1.0,1,700,6,3.0,96,0,0,1,1,1,1,0,1,Carroll Gardens,Brooklyn,/photos/windows/180.jpg
+5186,2925,1.0,1,664,9,9.0,4,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4288385999903485278.jpg
+3127,2400,1.0,1,568,4,2.0,1,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/736.jpg
+9425,1900,2.0,1,900,3,4.0,85,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/windows/457.jpg
+4707,1650,1.0,1,500,8,2.0,91,0,0,0,0,0,0,0,0,Red Hook,Brooklyn,/photos/windows/1303.jpg
+9197,4145,2.0,1,709,7,4.0,157,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/entrance/123.jpg
+8961,2500,1.0,2,680,4,2.0,8,0,0,1,0,0,0,1,0,Greenwood,Brooklyn,/photos/flat_plans/4832924661988027979.jpg
+5374,2300,1.0,1,700,13,4.0,96,0,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/interior/1860121774125443929.jpg
+3085,3195,2.0,1,1200,3,4.0,10,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/299.jpg
+9973,2750,1.0,1,700,12,4.0,9,0,0,0,0,1,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/3689162312099217064.jpg
+6584,1650,0.5,1,750,4,1.0,75,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/flat_plans/9112741791519578352.jpg
+4300,4500,2.0,2,1800,10,2.0,1,0,0,0,0,0,0,0,0,Manhattan Beach,Brooklyn,/photos/flat_plans/1355659523651465624.jpg
+9649,3199,1.5,0,750,4,3.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/506813306648435013.jpg
+8123,4300,2.0,2,1222,6,15.0,13,0,1,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/interior/8997083350306034374.jpg
+2203,2000,0.0,1,414,8,2.0,85,1,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/flat_plans/6923770152376585610.jpg
+7300,2534,0.0,1,437,7,2.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/901.jpg
+5975,2500,1.0,1,800,2,3.0,86,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3615410854719127303.jpg
+1846,3750,3.0,2,1300,2,2.0,85,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/435.jpg
+5958,3400,0.0,2,705,5,2.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/644722941507018518.jpg
+5345,3225,1.0,1,590,1,25.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/1004979758002026339.jpg
+729,4200,2.0,2,1222,6,14.0,13,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8090813777709358289.jpg
+7780,2488,1.0,1,500,7,5.0,116,0,0,0,0,1,0,0,1,Brooklyn Heights,Brooklyn,/photos/windows/725.jpg
+7515,2550,1.0,1,613,6,3.0,10,0,1,1,1,1,1,1,0,Park Slope,Brooklyn,/photos/buildings/3646450086393282317.jpg
+8642,3250,2.0,1,900,6,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/9073543045858798977.jpg
+11173,3411,1.0,1,713,4,18.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8311375563007857598.jpg
+9471,1500,1.0,1,700,6,3.0,60,0,0,0,0,0,0,0,0,Ocean Parkway,Brooklyn,/photos/flat_plans/9088915272824159148.jpg
+533,1995,2.0,2,845,3,1.0,111,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/696.jpg
+11332,2510,0.0,1,476,1,36.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/5398437582879364015.jpg
+6739,3900,1.0,1,625,5,5.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/8912696223536162822.jpg
+2463,3600,2.0,1,1100,4,12.0,58,0,0,1,1,1,1,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/61.jpg
+5923,3000,4.0,1,1200,2,2.0,106,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/1667932860896876493.jpg
+3782,3320,1.0,1,578,1,18.0,17,1,0,0,0,0,1,0,0,Brooklyn Heights,Brooklyn,/photos/flat_plans/2865014915180366205.jpg
+9450,3400,3.0,2,1500,5,1.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/7270668303901230747.jpg
+7434,2495,0.0,1,487,1,14.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/1314.jpg
+1765,6600,2.0,2,1218,0,6.0,116,1,0,1,1,1,1,0,1,Brooklyn Heights,Brooklyn,/photos/buildings/7138050547362224628.jpg
+9555,2000,0.0,1,450,8,1.0,111,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/flat_plans/2969750566999099452.jpg
+6326,2570,2.0,1,950,5,8.0,6,1,0,0,0,0,1,0,0,Flatbush,Brooklyn,/photos/interior/6421559917736196432.jpg
+4079,2900,1.0,1,750,7,2.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6338886928029759070.jpg
+4668,2000,1.0,1,650,2,4.0,85,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/windows/649.jpg
+9524,3204,1.0,1,616,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2553121592707763959.jpg
+9543,6895,3.0,2,1601,1,26.0,10,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/entrance/204.jpg
+4078,3499,2.0,2,1600,5,1.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/1001604648494888790.jpg
+9755,3800,3.0,1,1000,14,1.0,96,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/405458908971281058.jpg
+7261,3700,3.0,1,1500,3,2.0,110,0,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/flat_plans/3518600296640910960.jpg
+5352,3540,1.0,1,683,3,6.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/970.jpg
+4375,2704,0.0,1,437,7,7.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2963882752529773906.jpg
+3648,1425,1.0,1,650,4,1.0,88,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/entrance/1268.jpg
+8272,1950,2.0,1,800,4,2.0,106,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/buildings/8719320790007678320.jpg
+6701,1581,0.0,1,513,2,5.0,52,0,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/interior/1716806802834369022.jpg
+7827,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/7979240668568347882.jpg
+6422,2000,1.0,1,1064,9,5.0,84,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/flat_plans/9008073718838734002.jpg
+5557,2500,1.0,1,804,7,6.0,90,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/flat_plans/181770990985117907.jpg
+10646,3995,3.5,2,1500,3,1.0,85,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/6196061416941509077.jpg
+8646,5320,2.0,2,992,5,11.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/4850945793600478525.jpg
+1794,2590,2.0,1,800,2,3.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1045.jpg
+4263,5500,3.0,2,1652,1,10.0,88,1,0,1,0,0,0,1,0,Downtown Brooklyn,Brooklyn,/photos/buildings/8705857261526726092.jpg
+3072,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/2542628485243730859.jpg
+1154,3950,3.0,2,1450,2,4.0,79,0,0,0,0,0,0,0,0,Windsor Terrace,Brooklyn,/photos/windows/764.jpg
+7953,2350,2.0,1,1000,3,12.0,111,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/buildings/4584576269873728257.jpg
+10582,3415,4.0,2,1630,6,40.0,89,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/windows/364.jpg
+10935,2500,0.0,1,441,2,5.0,5,0,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8111543148630895420.jpg
+2116,4650,2.0,2,1295,1,17.0,88,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/868.jpg
+1988,3340,1.0,1,518,1,8.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/windows/577.jpg
+3667,1700,2.0,1,900,9,2.0,85,0,0,0,0,0,0,0,0,Dyker Heights,Brooklyn,/photos/interior/2880906529036428298.jpg
+2777,2450,2.0,1,1100,4,2.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/4196282243029419692.jpg
+8660,2100,2.5,1,1000,5,3.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/windows/826.jpg
+9040,7200,3.0,2,1427,2,5.0,90,1,0,0,0,1,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/748.jpg
+3902,1950,2.0,1,600,8,3.0,92,0,0,0,0,0,0,0,0,Sunset Park,Brooklyn,/photos/interior/4417455449883105681.jpg
+6481,2300,1.0,1,680,9,3.0,88,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/buildings/7846705950876499113.jpg
+9151,3725,1.0,1,661,3,8.0,16,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/821244361352747388.jpg
+7619,3100,1.0,1,950,4,1.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/5462176458255783348.jpg
+3911,3300,3.0,1,900,1,4.0,6,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3046462563624595172.jpg
+5996,2775,2.0,1,900,5,2.0,85,0,1,0,1,1,0,0,1,Greenpoint,Brooklyn,/photos/interior/4188451910438026822.jpg
+9593,3600,1.0,1,824,2,13.0,89,0,1,1,0,1,0,0,1,Fort Greene,Brooklyn,/photos/flat_plans/4171791184487676880.jpg
+924,2500,1.0,1,589,5,3.0,10,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/727.jpg
+11122,3600,1.0,1,1000,3,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/9207177521416825649.jpg
+7935,3099,2.0,1,750,3,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2458138514276790396.jpg
+4887,3995,2.0,1,850,7,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/147617700532770654.jpg
+4425,2500,1.0,1,780,10,2.0,126,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/7128301635511247083.jpg
+9484,1900,1.0,1,800,3,4.0,85,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/buildings/874126307692487140.jpg
+6488,2729,1.0,1,683,3,2.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/flat_plans/9201442213386179194.jpg
+1520,2500,1.0,1,800,4,3.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/buildings/2542628485243730859.jpg
+2838,2417,2.0,2,850,7,4.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/89.jpg
+2781,6250,2.0,2,1200,2,11.0,5,0,0,1,0,0,1,1,0,Williamsburg,Brooklyn,/photos/interior/7856249074779203022.jpg
+119,2550,1.0,1,673,8,4.0,143,1,0,0,0,0,1,0,0,Fort Greene,Brooklyn,/photos/interior/700200216499653184.jpg
+6252,1700,1.0,1,650,6,4.0,56,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/interior/6109943842884415939.jpg
+6288,2195,2.0,1,1225,3,5.0,59,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/flat_plans/7668210632341453019.jpg
+9196,3805,1.0,1,706,5,9.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/1281.jpg
+1582,2750,2.0,1,900,7,1.0,96,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/buildings/2637545144798763993.jpg
+1789,4000,3.0,1,800,3,1.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/908828663099102211.jpg
+2788,3950,2.0,1,929,3,2.0,7,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/entrance/114.jpg
+6264,2446,2.0,1,1000,8,1.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/743.jpg
+8380,3800,3.0,1,1300,3,2.0,117,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/entrance/1089.jpg
+1345,2635,0.0,1,503,1,19.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/5031639565873295613.jpg
+9982,2600,2.0,1,900,3,3.0,81,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/flat_plans/2553121592707763959.jpg
+7715,1800,1.0,1,700,5,1.0,87,0,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/flat_plans/1563596897065142856.jpg
+3273,1850,1.0,1,700,11,2.0,1,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/1007.jpg
+11041,2500,1.0,1,800,5,3.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2751187957887736509.jpg
+4429,2900,1.0,1,900,2,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5618428495392808620.jpg
+2702,3337,1.0,1,677,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4580998037642842838.jpg
+3950,2150,1.0,1,700,11,3.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/692.jpg
+1436,3000,0.0,1,645,5,5.0,8,0,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2388803858056115636.jpg
+1223,4850,2.0,2,1114,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/1333832802042006460.jpg
+1573,3295,1.0,1,675,1,15.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/1042681092631082096.jpg
+7896,3695,2.0,1,800,3,2.0,2,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/8746563218730104856.jpg
+9015,2200,1.0,1,713,3,5.0,86,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/7688481625436912270.jpg
+8366,3385,3.0,2,1175,4,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/8184590614933187558.jpg
+9853,4395,2.0,2,1300,3,1.0,79,0,0,0,0,0,1,0,0,Prospect Heights,Brooklyn,/photos/flat_plans/5556032361455913179.jpg
+8938,4500,2.0,1,1500,4,4.0,85,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/entrance/1228.jpg
+10426,3000,0.0,1,794,2,3.0,8,0,1,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/entrance/449.jpg
+2774,4390,2.0,2,870,8,3.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8900893083413823613.jpg
+5151,5000,2.0,2,1150,4,4.0,9,0,1,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/buildings/2067046189728456156.jpg
+6232,2695,1.0,1,645,3,4.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/entrance/651.jpg
+3430,6100,2.0,2,1104,6,4.0,8,1,0,0,0,0,1,0,0,Williamsburg,Brooklyn,/photos/buildings/3159010866660190277.jpg
+4305,3675,1.0,1,704,3,1.0,116,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/buildings/5094089005971196563.jpg
+4712,3000,1.0,1,638,8,4.0,10,0,1,0,1,1,1,0,1,Greenpoint,Brooklyn,/photos/entrance/72.jpg
+5784,3600,3.0,1,969,9,3.0,86,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/6447616719865710947.jpg
+7474,2800,1.0,1,1000,13,3.0,86,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/entrance/1243.jpg
+6963,2200,1.0,1,500,9,3.0,85,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/386821533265498793.jpg
+662,2835,0.0,1,615,8,6.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4503172608940268654.jpg
+6946,2199,1.5,1,750,4,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/3570172240125055069.jpg
+10674,1750,0.0,1,500,8,1.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/7891167472643583264.jpg
+3959,3795,3.0,1,1150,6,1.0,116,0,1,1,1,1,1,0,1,Cobble Hill,Brooklyn,/photos/flat_plans/2566654218716194716.jpg
+4743,1425,0.0,1,490,6,1.0,56,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/entrance/1114.jpg
+4252,9000,2.0,2,2005,5,4.0,100,0,0,0,1,1,0,0,1,DUMBO,Brooklyn,/photos/interior/5698207563665881524.jpg
+2740,2200,1.0,1,400,6,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/entrance/713.jpg
+6816,3600,2.0,2,1000,7,2.0,26,0,0,1,1,0,0,0,0,Windsor Terrace,Brooklyn,/photos/entrance/29.jpg
+1144,2200,1.0,1,800,6,1.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6487629981059205259.jpg
+4397,6250,1.0,1,2000,9,4.0,85,0,0,0,0,0,0,0,0,Red Hook,Brooklyn,/photos/interior/7251360327101539752.jpg
+7656,2600,0.0,1,470,2,2.0,6,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/1466503650836328365.jpg
+6277,3150,1.0,1,775,4,2.0,66,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5783926903594948661.jpg
+9760,3195,2.0,1,950,8,2.0,15,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/792.jpg
+812,4314,1.0,1,625,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/351543828981900608.jpg
+10172,2800,1.0,1,641,3,4.0,7,0,1,1,1,1,0,0,1,Gowanus,Brooklyn,/photos/buildings/2256068884267084559.jpg
+5745,3750,2.0,2,1100,13,3.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/interior/7211471928962661000.jpg
+7611,2910,1.0,1,677,1,10.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/934263769721474052.jpg
+10404,2650,2.0,1,821,7,3.0,15,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/913254115154468592.jpg
+2165,1800,2.0,1,1000,9,3.0,91,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/flat_plans/9157703168980663227.jpg
+2437,3500,2.0,2,1139,7,11.0,96,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/interior/7557621858198254345.jpg
+7497,4600,2.0,2,1000,2,2.0,86,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/899.jpg
+6619,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8708960712864228074.jpg
+5090,3092,1.0,1,676,9,6.0,4,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8192574365153076616.jpg
+10588,1938,1.0,1,603,7,5.0,90,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/windows/1066.jpg
+8953,1995,2.0,1,995,5,6.0,58,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/interior/5824264723002579462.jpg
+4144,4500,3.0,2,1600,2,4.0,79,0,0,0,0,0,0,0,0,Windsor Terrace,Brooklyn,/photos/flat_plans/4369171400945158616.jpg
+967,5500,2.0,2,1355,2,13.0,89,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/flat_plans/8063446110944328923.jpg
+7536,3450,2.0,1,900,0,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/buildings/5059676079139706612.jpg
+4122,3950,1.0,1,775,5,19.0,6,0,1,0,1,1,0,0,1,Williamsburg,Brooklyn,/photos/interior/793051814246198844.jpg
+6042,2650,2.0,2,1003,7,6.0,96,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/buildings/8854058271778710928.jpg
+6437,4000,3.0,1,1800,6,1.0,5,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/buildings/531497567468787696.jpg
+5421,2400,0.0,1,475,9,2.0,16,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/5647209218806253807.jpg
+10919,3000,1.0,1,750,3,2.0,7,0,1,1,1,1,1,0,1,Williamsburg,Brooklyn,/photos/interior/7274000327146897406.jpg
+4423,4200,2.0,2,910,3,2.0,12,0,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/6557449326447374757.jpg
+3941,4000,1.0,1,1085,6,4.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/7712686109539180352.jpg
+1171,5995,2.0,2,1033,7,12.0,9,0,1,1,1,1,1,0,1,Williamsburg,Brooklyn,/photos/flat_plans/287735957340270362.jpg
+8460,4950,2.0,2,1300,3,3.0,13,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/1293.jpg
+2937,2300,1.0,1,500,6,3.0,146,0,0,0,0,1,0,0,0,Cobble Hill,Brooklyn,/photos/flat_plans/7362665114369915028.jpg
+8892,3000,0.0,1,511,2,30.0,3,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/entrance/302.jpg
+11337,6565,3.0,2,1207,1,27.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/buildings/3772065837493133397.jpg
+5922,3100,2.0,1,850,0,7.0,70,0,1,0,1,1,1,1,1,Clinton Hill,Brooklyn,/photos/flat_plans/5189619531674966127.jpg
+47,3333,0.0,1,1025,8,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/749.jpg
+4223,5250,3.0,2,1570,2,7.0,10,1,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/buildings/4184662028534069348.jpg
+10819,2650,2.0,1,1000,8,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8377535268964024857.jpg
+673,12000,3.0,2,2571,6,2.0,88,0,0,0,1,1,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/339.jpg
+6907,10000,3.0,2,1854,6,4.0,8,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/7556803667582660035.jpg
+8316,2200,1.0,1,750,5,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/6238324216377412153.jpg
+2485,2625,0.0,1,515,4,34.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/7717954237395707420.jpg
+4816,1550,1.0,1,900,10,1.0,85,0,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/interior/2119529439997581721.jpg
+1112,2700,1.0,1,900,2,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/821.jpg
+9251,2500,1.0,1,665,5,4.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/4024022932763930800.jpg
+4022,4750,4.0,2,964,6,4.0,112,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/6775089678842955674.jpg
+7707,2150,0.0,1,420,5,6.0,96,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/1126.jpg
+8180,2700,2.0,1,750,3,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4602476724520258413.jpg
+10262,3875,1.0,1,784,6,3.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5431350176461589573.jpg
+2732,2100,2.0,1,1000,0,1.0,115,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/9120523629039484586.jpg
+10749,4400,2.0,2,1100,7,3.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5366013730334362552.jpg
+8999,2800,1.0,1,700,7,1.0,101,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/entrance/559.jpg
+10860,2650,1.0,1,1000,5,2.0,91,0,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/entrance/1216.jpg
+8848,2300,1.0,1,650,2,1.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/316.jpg
+1254,3630,1.0,1,667,1,34.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/420514848089675387.jpg
+3207,4416,3.0,1,900,9,4.0,96,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/2239129701513267018.jpg
+931,2000,2.0,1,1000,6,3.0,85,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/entrance/532.jpg
+9209,2275,1.0,1,500,8,4.0,96,1,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/5945087357407460403.jpg
+9762,2999,2.0,1,750,3,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/548182857194861610.jpg
+7184,2975,3.0,1,723,4,2.0,85,1,0,0,0,0,0,0,0,Gowanus,Brooklyn,/photos/flat_plans/5252335233437110743.jpg
+1910,2854,1.0,1,605,7,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8543928383403956523.jpg
+10281,2700,0.0,1,908,6,1.0,101,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/2308935431441370768.jpg
+8893,3750,1.0,1,696,2,15.0,3,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/flat_plans/4166920218237974711.jpg
+7197,3800,1.0,1,1100,4,4.0,96,0,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/windows/478.jpg
+5261,3600,3.0,1,1000,2,2.0,86,1,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/flat_plans/913254115154468592.jpg
+3108,4400,1.0,1,725,4,2.0,9,0,0,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/buildings/6866867573355336451.jpg
+5530,3400,1.0,1,753,1,5.0,10,1,0,0,0,0,1,0,0,DUMBO,Brooklyn,/photos/flat_plans/7937117615692667614.jpg
+4633,3200,1.5,1,1000,2,2.0,85,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/8226132771528983376.jpg
+10806,3400,1.0,1,739,2,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6874272854226783225.jpg
+8850,2650,0.5,1,490,5,23.0,8,0,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/interior/2228736789695302566.jpg
+8289,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/2954214300702589740.jpg
+6073,6995,3.0,3,1467,1,4.0,4,1,0,1,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/7041808267617138148.jpg
+8234,8900,3.0,2,1709,6,3.0,88,1,0,0,0,0,0,1,1,Brooklyn Heights,Brooklyn,/photos/interior/3589979869410864692.jpg
+4854,3200,1.0,1,750,1,2.0,115,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6860997342949775354.jpg
+10843,2500,1.5,1,800,9,4.0,116,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/buildings/4721748730354751992.jpg
+6523,1800,0.0,1,350,6,1.0,11,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/1001.jpg
+8299,1600,0.0,1,600,4,5.0,59,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/flat_plans/6033975103815396396.jpg
+1456,4100,1.0,2,723,5,4.0,86,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/8497023596365537829.jpg
+3167,1800,1.0,1,900,6,1.0,56,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/interior/5123624867348413161.jpg
+4024,2899,2.0,1,750,4,4.0,9,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1278346529151116603.jpg
+4708,2400,2.0,1,800,6,2.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/windows/817.jpg
+5845,1900,0.0,1,453,5,2.0,6,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/7583634431214042554.jpg
+8537,3475,1.5,1,1275,3,2.0,115,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/646345110757633691.jpg
+8631,4600,2.0,2,1034,5,6.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/742.jpg
+4773,3000,3.0,1,900,2,1.0,85,1,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/buildings/6435584232730787078.jpg
+6510,2750,1.0,1,550,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,Brooklyn,/photos/interior/8234319861875568166.jpg
+5491,2700,2.0,1,800,7,11.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/118.jpg
+4645,2200,2.0,1,900,5,3.0,10,0,0,0,0,0,0,0,0,Midwood,Brooklyn,/photos/buildings/8361158869390663621.jpg
+4659,4899,4.0,3,1500,6,2.0,88,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/5018774677410395632.jpg
+1782,3200,1.0,1,700,4,4.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/111880740228784401.jpg
+4466,3300,1.0,1,733,2,11.0,90,0,0,0,0,1,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/490.jpg
+2669,5300,2.0,2,1400,3,9.0,114,0,0,1,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/buildings/4721748730354751992.jpg
+5360,3150,1.5,1,1000,8,3.0,9,0,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/interior/6946769673309608712.jpg
+3193,5630,2.0,2,974,6,6.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/9140200085979730859.jpg
+9380,4349,3.5,3,1900,5,1.0,85,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/4259140807510403370.jpg
+10186,1750,1.5,1,1000,2,2.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/buildings/5365916489757585104.jpg
+6983,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3051472377240935081.jpg
+4537,2734,0.0,1,515,6,5.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8803975092858494083.jpg
+8664,2000,1.0,1,525,3,4.0,116,0,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/entrance/412.jpg
+3140,2500,1.0,1,706,1,3.0,9,1,0,0,0,0,0,1,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/1141391042366244610.jpg
+6949,2550,1.0,1,450,9,7.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/windows/975.jpg
+343,2850,1.0,1,620,5,4.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/2432139862636930512.jpg
+2494,3570,0.0,1,876,3,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6225726848538459446.jpg
+6296,2875,3.0,1,1550,8,2.0,86,1,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/interior/1970170803621696321.jpg
+2487,3256,1.0,1,669,4,35.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/8025467466391903571.jpg
+1391,3025,1.0,1,655,7,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6708362561478533896.jpg
+11226,2699,2.0,1,800,3,3.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/9037104896463292549.jpg
+10637,1550,1.0,1,682,4,1.0,96,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/3789312883433589889.jpg
+808,1975,1.0,0,500,5,2.0,106,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/7506089387794057269.jpg
+9777,1650,1.0,1,650,7,19.0,92,0,0,0,0,0,0,0,0,Brownsville,Brooklyn,/photos/flat_plans/7025684522374857644.jpg
+3948,1800,1.0,1,700,3,2.0,115,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/708.jpg
+1995,2500,2.0,1,1000,4,2.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/5957965702561091140.jpg
+837,4100,2.0,1,988,3,3.0,7,1,1,0,1,1,0,0,1,DUMBO,Brooklyn,/photos/entrance/776.jpg
+5202,4620,2.0,2,876,3,7.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4057461150869403843.jpg
+6759,3250,4.0,1,1400,9,2.0,106,1,1,1,1,1,1,1,1,Bedford-Stuyvesant,Brooklyn,/photos/buildings/7672982896436817218.jpg
+3706,2200,1.0,1,800,6,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3800217604618639412.jpg
+601,3800,2.0,1,1700,5,1.0,8,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/windows/1274.jpg
+1082,3680,1.0,1,675,1,39.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/424.jpg
+9689,2965,2.0,2,868,4,3.0,8,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/windows/95.jpg
+2955,2600,3.0,2,900,8,2.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/2270767934071072404.jpg
+6959,2750,1.0,1,550,9,7.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/5893558273559063086.jpg
+5824,1800,0.0,1,500,7,6.0,96,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/buildings/5576849160801523393.jpg
+5525,1475,1.0,1,675,7,10.0,92,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/buildings/38214986965664930.jpg
+6588,2400,2.0,1,900,5,3.0,88,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/7876958665295136444.jpg
+4358,3325,1.0,1,683,3,3.0,7,1,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/interior/2043740955256079052.jpg
+10471,2300,2.0,1,800,1,1.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/buildings/5015918846460107411.jpg
+663,2856,0.0,1,615,8,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/575755203537324962.jpg
+8908,2840,1.0,1,561,1,10.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/8393199333471035088.jpg
+10397,3199,0.0,1,710,3,3.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5192135935603480054.jpg
+4661,3400,1.0,1,684,6,1.0,6,1,1,0,0,1,0,0,1,Williamsburg,Brooklyn,/photos/flat_plans/7921028529903381667.jpg
+9665,2999,2.0,1,750,3,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/569377484757626220.jpg
+9797,2769,2.0,1,900,4,1.0,86,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/749.jpg
+7084,3500,1.0,1,675,1,38.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/301.jpg
+9976,4190,2.0,1,800,7,2.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1320.jpg
+9980,2999,2.0,1,1000,6,4.0,11,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/606.jpg
+3129,2200,2.0,1,900,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/3499412459178594427.jpg
+2567,2750,1.0,1,675,3,3.0,85,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/730.jpg
+5173,3600,3.0,1,800,7,3.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/1661223094576895844.jpg
+1005,1900,1.0,1,625,4,3.0,88,0,1,1,1,1,0,1,1,Williamsburg,Brooklyn,/photos/windows/1293.jpg
+10030,1750,1.0,1,874,5,5.0,55,0,1,1,1,1,1,0,1,Ocean Parkway,Brooklyn,/photos/interior/4118400900725548246.jpg
+6859,2100,2.0,1,1082,1,4.0,58,1,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/buildings/4947731842801638791.jpg
+6989,4100,2.0,1,900,2,68.0,8,0,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/interior/8258568435157562384.jpg
+2455,6320,3.0,3,1450,6,30.0,7,0,0,1,0,0,1,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/6040759753998044047.jpg
+11199,3390,2.0,1,1500,3,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/3327090872640804298.jpg
+10017,2300,3.0,1,850,7,1.0,92,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/flat_plans/2998017214200084851.jpg
+10960,2125,2.0,1,1140,6,6.0,57,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/flat_plans/4415195178848919024.jpg
+9456,3784,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8497023596365537829.jpg
+912,6500,2.0,2,1336,3,7.0,7,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/7423598347424184092.jpg
+9781,2000,2.0,1,850,1,2.0,85,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/interior/4604203106413941079.jpg
+10773,2400,1.0,1,746,2,1.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/6135047529111158367.jpg
+10225,5039,2.0,2,1071,7,7.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/9081200389383905771.jpg
+5201,3515,1.0,1,683,3,4.0,7,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7860407712560969185.jpg
+6502,3100,1.0,1,1000,5,1.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4052502432132099809.jpg
+6610,4350,3.0,1,1100,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/1337480819548841274.jpg
+6656,5405,1.0,1,666,5,7.0,86,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/1928218639343054941.jpg
+3593,3195,1.5,2,900,4,3.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/254.jpg
+10216,4700,1.0,1,700,1,2.0,1,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/242.jpg
+7814,2995,2.0,1,850,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/895187767895369456.jpg
+1905,2350,1.0,1,650,4,1.0,14,0,0,1,1,1,1,0,1,DUMBO,Brooklyn,/photos/flat_plans/506813306648435013.jpg
+6608,4095,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7648787081560875937.jpg
+6984,4350,3.0,1,1100,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/694762492603075873.jpg
+497,3500,1.0,1,731,1,3.0,96,1,0,1,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/4666825547185752878.jpg
+10720,5100,3.0,2,1300,3,3.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/242393866890390282.jpg
+5049,2650,0.0,1,444,3,2.0,16,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/buildings/2952784069183952132.jpg
+6994,1575,1.0,1,775,2,2.0,27,1,0,1,1,1,0,0,1,Coney Island,Brooklyn,/photos/buildings/3701398982108916675.jpg
+8484,1800,1.0,1,700,3,3.0,112,0,0,0,0,0,0,0,0,Sunset Park,Brooklyn,/photos/buildings/3159010866660190277.jpg
+4657,4583,4.0,2,1000,6,4.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5823559837080889396.jpg
+10764,5800,2.0,2,1372,6,9.0,10,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/275531728521433848.jpg
+5073,2149,1.0,1,825,5,16.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/entrance/858.jpg
+11160,1800,1.0,1,850,9,1.0,55,0,0,0,1,0,0,0,0,Kensington,Brooklyn,/photos/interior/1044165596449426899.jpg
+4830,5200,3.0,2,1400,1,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/buildings/8166304565314348204.jpg
+6424,2475,0.0,1,402,1,30.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/84388317777007743.jpg
+9262,2999,0.0,1,820,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8373290045746964504.jpg
+11043,1800,1.0,1,650,5,1.0,91,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/entrance/27.jpg
+6558,2875,0.0,1,648,8,1.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/497.jpg
+9335,4100,2.5,2,1650,8,7.0,117,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/buildings/3159010866660190277.jpg
+6297,1825,1.0,1,806,8,2.0,86,1,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/windows/907.jpg
+1568,3150,2.0,2,1300,10,5.0,1,0,0,0,0,0,0,0,0,Manhattan Beach,Brooklyn,/photos/flat_plans/1043503562506151238.jpg
+1821,6250,3.0,3,1900,2,2.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/7717954237395707420.jpg
+4364,3485,2.0,1,1200,8,1.0,11,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/entrance/300.jpg
+2149,2300,1.0,1,500,11,3.0,96,0,0,0,0,0,0,0,0,Red Hook,Brooklyn,/photos/interior/881118912148191233.jpg
+3101,3100,1.0,1,722,2,12.0,89,0,1,1,1,1,1,0,1,Fort Greene,Brooklyn,/photos/interior/2244024353399213628.jpg
+10405,3025,2.0,1,800,2,2.0,86,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5015387010101840633.jpg
+2768,2200,0.0,1,444,1,12.0,9,0,1,1,0,1,1,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/6560191795547821608.jpg
+4662,4033,2.0,2,830,2,5.0,5,0,0,1,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1828722260083453461.jpg
+6307,1500,0.0,1,300,3,6.0,90,0,0,0,1,1,0,0,0,Crown Heights,Brooklyn,/photos/windows/989.jpg
+3590,3595,1.0,1,675,1,6.0,106,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/517.jpg
+6300,2300,2.0,1,650,3,2.0,106,1,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/buildings/549650374680494046.jpg
+3685,3210,1.0,1,646,2,6.0,5,0,0,0,0,0,1,0,0,Williamsburg,Brooklyn,/photos/entrance/19.jpg
+10771,4200,4.0,1,1850,5,2.0,85,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/entrance/570.jpg
+3809,3999,2.0,2,1200,1,21.0,3,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/6971293417877779068.jpg
+6287,1650,1.0,1,713,11,3.0,55,1,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/entrance/1196.jpg
+7914,3671,0.0,1,569,5,5.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/1113379225707686248.jpg
+3968,2125,2.0,1,1157,7,7.0,56,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/buildings/7773475307360584670.jpg
+3940,2625,0.0,1,472,6,4.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5285138757062008529.jpg
+2159,2200,2.0,1,800,4,3.0,101,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/1863885127471944048.jpg
+3935,1675,2.0,1,900,14,7.0,50,0,0,0,0,0,0,0,0,East Flatbush,Brooklyn,/photos/windows/859.jpg
+6853,2000,2.0,1,1139,7,5.0,56,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/flat_plans/5822305354554783961.jpg
+10467,2450,0.0,1,441,2,2.0,5,0,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/4839308842294230920.jpg
+9787,2000,2.0,1,800,2,3.0,91,0,0,0,0,0,0,0,0,East Flatbush,Brooklyn,/photos/flat_plans/4551099490294055770.jpg
+6531,4245,1.0,1,762,4,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2816428917544480806.jpg
+11319,3350,3.0,1,1000,3,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3467449227439808940.jpg
+4110,2550,1.5,1,800,8,4.0,95,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/4151475106914557034.jpg
+2825,1450,0.0,1,450,4,4.0,85,0,0,0,0,1,0,0,0,Kensington,Brooklyn,/photos/windows/665.jpg
+1816,3000,2.0,2,950,7,5.0,7,0,1,1,1,1,1,0,1,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/7077167893605606333.jpg
+3631,1971,1.0,1,845,2,16.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/entrance/121.jpg
+517,3434,3.0,2,1175,4,2.0,9,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/5684220826670034673.jpg
+803,3500,2.0,2,950,5,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8640861385138726723.jpg
+5222,4200,2.0,2,1126,3,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4806299830551985384.jpg
+2214,2650,1.0,1,634,8,4.0,143,1,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/4604203106413941079.jpg
+2978,2500,2.0,2,1150,6,4.0,3,0,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/flat_plans/1460081052391967310.jpg
+7304,5250,2.0,2,1135,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/579.jpg
+9291,12000,3.0,2,2093,1,52.0,3,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/5371657050786554125.jpg
+10900,2350,3.0,1,1200,3,2.0,111,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/windows/468.jpg
+3804,2550,1.0,1,650,4,3.0,11,0,1,1,1,1,1,0,1,Clinton Hill,Brooklyn,/photos/entrance/1265.jpg
+1165,3490,1.0,1,578,1,26.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/flat_plans/7321716797241846553.jpg
+5918,2891,1.0,1,665,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5752337310847946197.jpg
+11260,2685,1.0,1,800,3,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1332.jpg
+4614,4200,3.0,2,1000,2,3.0,10,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/159973030871126573.jpg
+2564,2000,3.0,2,1200,13,7.0,50,0,0,0,0,0,0,0,0,East Flatbush,Brooklyn,/photos/flat_plans/6577585736047023335.jpg
+8148,4500,2.0,2,1000,8,2.0,117,0,0,0,0,0,0,0,0,Columbia St Waterfront District,Brooklyn,/photos/entrance/627.jpg
+6902,2950,2.0,2,870,8,1.0,12,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/entrance/1199.jpg
+9164,4354,1.0,1,924,3,7.0,7,1,1,0,1,1,0,1,1,DUMBO,Brooklyn,/photos/interior/8140919753233657217.jpg
+4863,3300,1.0,1,735,8,1.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/273.jpg
+8634,3695,1.0,1,813,5,8.0,6,0,0,0,0,0,0,0,1,Williamsburg,Brooklyn,/photos/windows/1130.jpg
+10591,5195,3.0,1,950,5,3.0,89,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/7336734754338327251.jpg
+5029,3595,1.0,1,706,1,30.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/flat_plans/4855643686857305813.jpg
+5485,3200,1.0,1,815,6,6.0,88,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/1817262045481085491.jpg
+5744,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,Brooklyn,/photos/buildings/5344973362450682144.jpg
+8955,2850,1.0,1,800,2,4.0,86,0,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/windows/427.jpg
+6286,2075,2.0,1,1146,11,2.0,55,1,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/buildings/3744317928326964407.jpg
+796,1725,1.0,1,650,2,3.0,88,1,0,0,0,0,0,0,0,Ocean Parkway,Brooklyn,/photos/interior/1335940303304400963.jpg
+7316,2200,1.0,1,400,6,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/4679035774965350208.jpg
+2909,1550,1.0,1,725,2,2.0,92,0,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/interior/1040003058860594598.jpg
+8021,2750,1.0,1,650,4,4.0,96,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/5081019923117455857.jpg
+6944,2500,1.0,1,1000,2,1.0,96,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/4788970663148068866.jpg
+4302,4050,1.0,1,805,3,2.0,116,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/6267423046626494654.jpg
+770,3200,2.0,1,1000,5,3.0,58,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/8637663900076692196.jpg
+3234,2800,3.0,1,1000,1,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1269.jpg
+5018,2495,2.0,1,900,5,7.0,57,0,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/entrance/682.jpg
+7610,2665,0.0,1,503,1,33.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/8229905405961537567.jpg
+4499,4500,5.0,2,1600,6,1.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/5980654680962880937.jpg
+7661,3825,2.0,1,822,1,18.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/978.jpg
+7880,3400,1.0,1,717,8,4.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/1123.jpg
+7447,2745,1.0,1,750,10,7.0,3,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/1385568920275402434.jpg
+9337,9495,2.0,2,2000,1,22.0,10,0,0,1,1,1,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/8501520082445656107.jpg
+8304,2550,1.0,1,700,9,2.0,96,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/entrance/85.jpg
+5793,2395,3.0,1,950,4,3.0,109,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/1068.jpg
+6625,2300,0.0,1,500,13,2.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/interior/1576126631845578565.jpg
+5014,4750,2.0,1,1200,2,1.0,10,0,0,0,0,1,0,0,0,Carroll Gardens,Brooklyn,/photos/buildings/6894467011492586622.jpg
+10947,2500,3.0,1,1200,3,4.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/6186292589788395729.jpg
+10927,3525,3.0,2,1800,11,1.0,117,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/1314.jpg
+10826,2600,0.0,1,492,2,2.0,5,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/688.jpg
+4542,3400,2.0,1,800,8,4.0,15,0,0,1,0,1,1,0,0,Williamsburg,Brooklyn,/photos/buildings/8945234302284643788.jpg
+1186,2215,0.0,1,550,7,8.0,6,0,1,1,1,1,1,0,1,Downtown Brooklyn,Brooklyn,/photos/flat_plans/2159875635921718014.jpg
+617,5100,3.0,1,1350,4,5.0,90,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/entrance/251.jpg
+6596,3300,3.0,1,975,7,3.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/6962520526137476644.jpg
+5407,2800,1.5,1,800,4,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/entrance/321.jpg
+2990,5210,2.0,1,888,5,5.0,114,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/windows/705.jpg
+6148,2300,1.0,1,450,6,4.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/8277996507697863461.jpg
+7102,2600,2.0,2,1100,3,7.0,91,0,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/flat_plans/4804110698212267413.jpg
+821,4750,2.0,2,1327,4,9.0,86,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/4271541133645874649.jpg
+2128,4303,2.0,1,797,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6789170504596151853.jpg
+7749,5300,2.0,1,1175,4,4.0,112,0,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/buildings/8111359832354566455.jpg
+2344,2050,2.0,1,785,6,3.0,85,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/entrance/325.jpg
+3694,4995,1.0,1,1293,5,6.0,100,0,1,0,0,0,1,0,0,DUMBO,Brooklyn,/photos/interior/6662913373948036332.jpg
+9637,2350,1.0,1,800,3,4.0,0,1,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/buildings/738311143101244529.jpg
+4285,3450,1.0,1,800,6,6.0,88,0,0,1,1,1,1,0,1,Brooklyn Heights,Brooklyn,/photos/flat_plans/2302843273770944251.jpg
+5521,4250,2.0,2,985,6,2.0,11,0,1,1,1,1,0,0,1,Williamsburg,Brooklyn,/photos/flat_plans/1755322522339251024.jpg
+6153,2400,2.0,2,750,4,3.0,96,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/8837920833920755242.jpg
+10366,2735,0.0,1,503,1,26.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/3767143658487217648.jpg
+10636,2500,0.0,1,525,7,2.0,66,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/1110881673669957180.jpg
+487,2750,2.0,1,875,4,2.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2856416951205836554.jpg
+3106,3200,2.0,1,1000,6,2.0,117,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/1033071340673887333.jpg
+949,4075,2.0,1,1037,3,2.0,7,1,1,1,1,1,1,0,1,DUMBO,Brooklyn,/photos/windows/1117.jpg
+446,2150,1.0,1,650,2,3.0,85,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/2900589883594305728.jpg
+5015,6500,3.0,2,1398,5,21.0,6,1,1,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/windows/651.jpg
+2202,3100,1.0,1,722,2,11.0,89,0,0,1,0,1,1,0,0,Fort Greene,Brooklyn,/photos/flat_plans/8311050286670612128.jpg
+8288,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,Brooklyn,/photos/windows/180.jpg
+8485,2350,2.0,1,750,2,3.0,86,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3485358512961643759.jpg
+10384,3450,0.0,1,875,3,3.0,7,1,1,0,1,1,0,0,1,Williamsburg,Brooklyn,/photos/interior/7823055264249896381.jpg
+5223,4400,2.0,1,1200,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4173934025320287417.jpg
+4744,2250,2.0,2,1138,3,2.0,88,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/flat_plans/6476148296661183290.jpg
+9409,2800,2.0,0,775,3,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4573325080081275421.jpg
+11025,3299,0.0,1,710,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1265.jpg
+3731,4800,2.0,2,1337,6,27.0,11,0,1,0,1,1,1,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/5764649334056914303.jpg
+4549,2250,2.0,1,605,8,5.0,7,0,1,0,1,1,1,0,1,Crown Heights,Brooklyn,/photos/interior/8508211940363193820.jpg
+5281,3300,2.0,1,753,3,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2666317187073631835.jpg
+8657,3400,2.0,1,800,5,1.0,117,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/interior/3109478762869375926.jpg
+4868,2100,1.0,1,650,1,3.0,85,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/7371573192587616782.jpg
+9060,3349,2.5,1,1000,3,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/interior/1315423061426354271.jpg
+10578,3900,2.0,2,900,3,2.0,116,1,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/flat_plans/4679035774965350208.jpg
+488,2800,3.0,1,1200,8,4.0,62,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/657735230722940656.jpg
+10772,3650,3.0,1,1500,3,2.0,110,0,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/flat_plans/2612667929746507867.jpg
+6144,2891,1.0,1,665,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/1025.jpg
+254,3500,2.0,2,900,5,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/6230964761702929888.jpg
+9327,4200,2.0,2,1128,3,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4268669792684744865.jpg
+3322,2815,0.0,1,505,1,46.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/741.jpg
+2881,3896,2.0,1,841,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/946.jpg
+6263,2800,2.0,1,900,8,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/855.jpg
+9553,2750,3.0,2,1500,7,3.0,11,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/305.jpg
+4320,2900,1.0,1,662,1,22.0,9,0,0,1,1,0,1,1,1,Downtown Brooklyn,Brooklyn,/photos/interior/7382184869927333553.jpg
+5502,4100,2.5,2,1400,8,7.0,117,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/3886536932081412352.jpg
+8991,2995,2.0,1,850,2,2.0,11,1,0,0,1,0,0,0,0,Bushwick,Brooklyn,/photos/buildings/559597714195005976.jpg
+3766,1650,1.5,1,750,7,2.0,88,0,0,0,0,0,0,0,0,Red Hook,Brooklyn,/photos/entrance/334.jpg
+5726,3495,1.0,1,675,1,41.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/4463850333421162420.jpg
+541,3950,2.0,2,986,2,21.0,6,0,1,0,1,1,1,0,1,Fort Greene,Brooklyn,/photos/flat_plans/7154086434842177066.jpg
+9556,4000,3.0,1,1000,2,3.0,86,1,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/buildings/8507511361599885809.jpg
+8844,4995,2.0,2,1029,3,3.0,7,1,0,1,0,1,0,0,0,Williamsburg,Brooklyn,/photos/buildings/6940840826004069446.jpg
+3376,3175,1.0,1,618,1,34.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/4678036638001390735.jpg
+5417,3414,0.0,1,492,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/5677829359693582715.jpg
+5723,3500,2.0,1,850,2,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/365.jpg
+7721,4250,2.0,1,1000,4,1.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/771695727859169357.jpg
+7367,2000,1.0,1,650,3,3.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/7937845917346704413.jpg
+6045,2850,3.0,2,1500,7,3.0,11,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/entrance/125.jpg
+6626,2800,1.0,1,850,6,3.0,5,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/744.jpg
+7408,3000,1.0,1,709,6,17.0,11,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/3273746409777495068.jpg
+4363,1800,1.0,1,650,5,2.0,96,0,0,0,0,0,0,0,0,Windsor Terrace,Brooklyn,/photos/interior/3133021061847382792.jpg
+7315,2800,1.0,1,637,3,3.0,6,1,0,0,1,1,0,0,1,DUMBO,Brooklyn,/photos/interior/1395430443112506237.jpg
+10565,2675,0.0,1,700,1,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/994.jpg
+9259,3100,1.0,1,950,2,1.0,7,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/247594642783602466.jpg
+9094,3000,2.0,1,800,6,5.0,111,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/windows/874.jpg
+1770,2300,0.0,1,510,13,2.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/interior/1041051549930574281.jpg
+3733,2995,1.0,1,557,1,4.0,10,0,1,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/4271541133645874649.jpg
+9258,3758,2.0,1,875,8,4.0,4,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1178.jpg
+10091,9000,2.0,4,3000,3,5.0,106,0,0,1,1,1,1,0,1,Williamsburg,Brooklyn,/photos/entrance/791.jpg
+7231,2600,1.0,1,710,5,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/430.jpg
+9415,2850,0.0,1,602,5,8.0,6,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4876393052519074399.jpg
+4691,3100,1.0,1,750,2,3.0,52,0,0,1,0,0,1,0,0,Brooklyn Heights,Brooklyn,/photos/buildings/6696028121936446256.jpg
+7828,4350,3.0,1,1100,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2296390154865801708.jpg
+7479,5250,2.0,2,1135,7,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/561716011069904015.jpg
+7433,2580,0.0,1,473,5,4.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/232.jpg
+6295,1675,1.0,1,753,5,2.0,58,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/buildings/5550982215311434540.jpg
+4113,2600,1.0,1,582,4,3.0,12,0,1,0,1,1,0,0,1,Park Slope,Brooklyn,/photos/interior/7172043712922489321.jpg
+3328,3450,1.0,1,683,3,3.0,7,1,0,1,0,0,1,0,0,Williamsburg,Brooklyn,/photos/interior/1624368180000561708.jpg
+9460,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,Brooklyn,/photos/buildings/7798325838639936658.jpg
+1250,4024,1.0,1,836,6,2.0,106,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/windows/547.jpg
+4395,4100,1.0,1,806,4,7.0,6,0,1,0,0,1,0,0,0,DUMBO,Brooklyn,/photos/interior/6267423046626494654.jpg
+7189,2850,2.0,1,750,4,1.0,116,0,0,0,0,0,0,0,0,Gowanus,Brooklyn,/photos/interior/455097609639154804.jpg
+2108,4400,2.0,1,878,6,3.0,8,1,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/interior/2980138231887216816.jpg
+4543,3400,2.0,1,800,8,2.0,15,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/543.jpg
+3713,2850,2.0,1,900,6,1.0,85,0,0,0,0,1,0,0,0,Park Slope,Brooklyn,/photos/entrance/392.jpg
+7976,5995,2.0,2,1153,1,44.0,3,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/5334093888360639386.jpg
+10297,5262,2.0,2,1188,8,1.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/619.jpg
+8960,3950,3.0,2,1209,4,10.0,8,0,0,1,0,0,1,0,1,Greenwood,Brooklyn,/photos/entrance/245.jpg
+5593,16000,3.0,3,2499,6,3.0,0,0,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/1478006332911225854.jpg
+914,6600,2.0,2,1218,0,5.0,116,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/1278346529151116603.jpg
+6867,2650,1.0,1,600,3,5.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8246804832269567124.jpg
+1891,5600,2.0,1,1494,6,3.0,106,1,1,0,1,1,1,0,0,DUMBO,Brooklyn,/photos/interior/3142496931731034537.jpg
+7427,3450,1.0,1,739,2,4.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/925.jpg
+11198,2699,3.0,1,900,5,1.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/4442731779180793035.jpg
+10028,3500,1.0,1,966,3,1.0,114,0,0,1,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/windows/1026.jpg
+3288,4300,2.0,2,1088,7,11.0,5,1,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/entrance/588.jpg
+5183,2950,2.0,1,850,5,3.0,11,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/7297615313651879297.jpg
+6432,2400,2.0,1,800,4,3.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/5372609863610989112.jpg
+7442,2118,1.0,1,550,9,4.0,111,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/4424158278397209218.jpg
+9453,2900,3.0,1,1162,2,23.0,52,0,0,0,1,1,1,1,1,Coney Island,Brooklyn,/photos/flat_plans/7154086434842177066.jpg
+6938,3600,2.0,1,1000,7,2.0,106,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/9032461473781590176.jpg
+9551,3300,4.0,2,1000,8,2.0,85,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/3498449001211873636.jpg
+1973,2499,3.0,1,1200,0,2.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/378.jpg
+2238,3600,2.0,2,984,4,5.0,86,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/6983651474404017917.jpg
+5858,2750,2.0,1,900,4,2.0,6,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/946748738723255102.jpg
+702,2500,1.0,1,500,2,1.0,49,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/flat_plans/4155961016322429901.jpg
+8391,2300,1.0,1,700,4,5.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/5053124328962294621.jpg
+3190,3337,1.0,1,677,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/649440267281031785.jpg
+1462,2800,1.0,1,750,11,3.0,58,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/8370496791861755513.jpg
+2692,3050,1.0,1,670,3,7.0,2,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/725.jpg
+9397,2720,0.0,1,503,1,27.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/3749010672134347041.jpg
+1722,3595,1.0,1,730,1,17.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/9112741791519578352.jpg
+1292,2500,2.0,1,900,3,4.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/749.jpg
+8054,2940,1.0,1,700,7,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/214.jpg
+10007,2550,1.5,1,750,8,4.0,95,1,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/entrance/218.jpg
+2602,3675,2.0,1,1000,3,1.0,111,1,0,1,0,1,1,0,0,Boerum Hill,Brooklyn,/photos/buildings/5395605445360699087.jpg
+7789,3100,0.0,1,800,2,1.0,9,0,1,0,1,0,0,0,1,Williamsburg,Brooklyn,/photos/entrance/543.jpg
+2715,3450,1.0,1,700,9,2.0,87,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/3764767973934238262.jpg
+8178,5000,3.0,2,1000,3,1.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/215.jpg
+4412,3117,1.0,1,740,8,1.0,116,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/6388098808215458900.jpg
+7938,2600,2.0,1,725,5,3.0,66,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/2437689461153134015.jpg
+4568,2800,2.0,1,900,4,8.0,5,1,0,1,0,0,0,0,0,Ditmas Park,Brooklyn,/photos/flat_plans/7904025195935333890.jpg
+5636,3050,1.0,1,689,2,6.0,90,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/1595301013392690195.jpg
+1648,2200,2.0,1,900,2,4.0,86,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/7276562255141106817.jpg
+6133,11500,4.0,3,3243,2,41.0,89,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/flat_plans/2254477270979050852.jpg
+1255,2680,0.0,1,510,3,4.0,7,1,0,0,0,1,1,0,0,Williamsburg,Brooklyn,/photos/entrance/862.jpg
+8147,3350,3.0,1,1200,3,3.0,86,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/5525722828459861467.jpg
+6605,4500,4.5,2,2000,8,1.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/1563251584944172853.jpg
+11115,3100,2.5,1,950,7,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/entrance/574.jpg
+9867,3099,2.0,1,750,3,7.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3663681178362449181.jpg
+2780,4200,1.0,1,895,6,6.0,5,0,0,0,0,0,0,1,0,Williamsburg,Brooklyn,/photos/entrance/1181.jpg
+11208,2474,2.0,1,1267,2,4.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/entrance/183.jpg
+10420,8500,3.0,3,2500,4,1.0,7,0,1,0,1,1,0,0,1,Park Slope,Brooklyn,/photos/entrance/987.jpg
+807,3650,1.0,1,662,3,7.0,16,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/buildings/2856970212630963590.jpg
+5129,1590,0.0,1,350,3,1.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3203447472410317813.jpg
+6855,1675,1.0,1,788,6,4.0,59,1,1,0,1,1,0,0,1,Gravesend,Brooklyn,/photos/windows/623.jpg
+10111,3595,1.0,1,932,7,2.0,11,0,0,0,1,1,1,0,1,Williamsburg,Brooklyn,/photos/flat_plans/7159784160068813389.jpg
+4169,6426,2.0,2,963,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/3099341987270987857.jpg
+5638,2050,2.0,1,985,3,6.0,59,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/flat_plans/3911824456434372234.jpg
+8977,2150,0.0,1,687,1,3.0,11,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1196.jpg
+7368,2745,2.0,1,800,3,2.0,116,1,0,0,0,0,1,0,0,Williamsburg,Brooklyn,/photos/windows/481.jpg
+4954,3500,1.0,1,1135,4,1.0,86,0,0,1,1,1,1,0,0,Bedford-Stuyvesant,Brooklyn,/photos/flat_plans/3146143887500262721.jpg
+2331,5999,2.0,2,1110,5,17.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1098.jpg
+9008,3300,1.0,1,781,2,4.0,10,1,0,0,1,1,0,0,0,Clinton Hill,Brooklyn,/photos/interior/3127455772153569049.jpg
+10584,2123,1.0,1,751,6,32.0,89,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/windows/1257.jpg
+11046,3500,2.0,1,900,9,2.0,131,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/313.jpg
+10338,2250,0.0,1,500,13,1.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/interior/9204572820400703018.jpg
+560,3680,1.0,1,618,1,33.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/1002.jpg
+1252,2445,0.0,1,470,1,50.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/785.jpg
+9892,5699,3.0,2,1232,2,6.0,10,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/windows/692.jpg
+1455,5860,2.0,2,1072,3,1.0,116,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/5511529767000416143.jpg
+10432,2450,0.0,1,441,2,2.0,5,0,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/1033337385404256792.jpg
+6457,1400,1.0,1,650,2,3.0,82,0,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/flat_plans/4233817698627136413.jpg
+2649,3170,1.0,1,590,1,21.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/interior/9151086733562874536.jpg
+3150,3350,2.5,1,850,8,3.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/buildings/2872507584457958501.jpg
+8315,4650,2.0,2,1056,6,7.0,6,1,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4359512618172474122.jpg
+3315,1850,1.0,1,790,4,2.0,85,0,0,0,0,0,0,0,0,Ditmas Park,Brooklyn,/photos/buildings/5418259518002365663.jpg
+10689,4495,2.0,1,1000,2,8.0,10,1,0,0,1,1,0,1,0,Carroll Gardens,Brooklyn,/photos/windows/822.jpg
+2986,3400,1.0,1,654,2,6.0,5,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2499353785500866634.jpg
+7234,1500,1.0,1,700,6,2.0,60,0,1,1,1,1,1,0,1,Ocean Parkway,Brooklyn,/photos/windows/844.jpg
+8553,5000,2.0,1,1006,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4258245914354590307.jpg
+10016,5295,3.0,1,1100,5,2.0,1,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1146.jpg
+6609,4500,3.0,2,1000,2,3.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/560215745556395574.jpg
+3228,1900,2.0,1,700,5,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/entrance/8.jpg
+1562,1800,1.0,1,650,13,2.0,117,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/flat_plans/6907410880739515752.jpg
+5296,4100,1.0,1,878,1,2.0,4,1,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2873275707149731934.jpg
+939,2000,0.0,1,450,43,2.0,107,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/1363.jpg
+6593,3465,0.0,1,785,8,6.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/684.jpg
+4262,2195,0.0,1,900,3,4.0,85,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/interior/278713797125414367.jpg
+3727,2650,0.0,1,490,5,17.0,8,0,1,0,1,1,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1018.jpg
+8950,1695,1.0,1,798,4,1.0,59,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/entrance/318.jpg
+8171,3700,2.0,1,990,6,1.0,5,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/1225.jpg
+8047,4000,2.0,1,1566,9,2.0,91,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/entrance/997.jpg
+4529,2850,2.0,1,800,7,2.0,96,1,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/2212667805870230111.jpg
+9356,3400,3.0,2,1500,4,1.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/313.jpg
+10768,1850,0.0,1,700,2,3.0,106,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/entrance/537.jpg
+4653,7250,3.0,2,1613,0,4.0,5,0,1,1,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/windows/988.jpg
+6164,2891,1.0,1,604,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7957233630372524747.jpg
+2579,4190,2.0,2,976,1,8.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/7522549755182316122.jpg
+8483,3300,2.5,1,900,8,4.0,143,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/windows/1305.jpg
+7791,1995,1.0,1,600,3,3.0,115,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/entrance/651.jpg
+10746,5100,4.0,2,1300,4,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/491802933675655747.jpg
+2117,2550,2.0,1,900,7,1.0,88,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/1189.jpg
+6293,1275,0.0,1,490,4,7.0,56,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/interior/6898730634922115213.jpg
+1649,3225,0.0,1,490,5,7.0,11,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/1299.jpg
+9174,2600,1.0,1,900,6,1.0,117,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/1887673395364966707.jpg
+9883,3800,3.0,1,1250,3,2.0,117,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/interior/4041684111967924853.jpg
+4943,3295,2.0,2,1000,9,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7393918936552529682.jpg
+6011,3750,2.0,2,1060,3,4.0,6,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/1270.jpg
+2786,2600,2.0,1,700,8,2.0,86,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/1261.jpg
+6993,2395,3.0,1,950,4,1.0,109,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/4071134119962268342.jpg
+3410,4500,2.0,2,1042,1,43.0,3,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/1196593200488588956.jpg
+3331,3200,2.0,1,1000,4,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/420514848089675387.jpg
+9385,1695,1.0,1,719,7,6.0,56,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/buildings/3116213695757154485.jpg
+9648,4325,2.0,2,1130,2,2.0,6,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4272916554190990523.jpg
+7901,2400,2.0,1,1200,18,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5079312992397657297.jpg
+2696,1700,0.0,1,450,2,2.0,77,0,0,1,0,1,0,0,0,Windsor Terrace,Brooklyn,/photos/interior/2308935431441370768.jpg
+3243,1846,2.0,1,900,5,1.0,106,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/6969642513284543738.jpg
+5715,2395,3.0,1,950,4,1.0,109,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/3706261234552133889.jpg
+3846,2700,1.0,1,617,5,4.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7644136849000728903.jpg
+5680,3300,2.0,1,900,6,2.0,96,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/1887673395364966707.jpg
+1063,2251,2.0,1,900,5,3.0,55,0,0,0,0,0,0,0,0,Kensington,Brooklyn,/photos/buildings/3866313985817754239.jpg
+1698,4200,1.0,1,925,4,2.0,106,0,0,0,0,1,1,0,0,Williamsburg,Brooklyn,/photos/flat_plans/7677913458157624377.jpg
+7169,2675,2.0,1,1000,5,5.0,8,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/3420999917393718737.jpg
+6278,4000,3.0,1,1000,4,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2142774802387685113.jpg
+1021,3029,1.0,1,655,7,3.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/557.jpg
+8199,2500,3.0,1,1000,1,1.0,76,0,0,0,0,0,0,0,0,Sunset Park,Brooklyn,/photos/interior/4589556601572765954.jpg
+6742,3138,0.0,1,440,5,8.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/4490335399765455341.jpg
+2688,3250,1.0,1,680,3,5.0,116,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/7374143807253555601.jpg
+5318,3700,4.0,1,1000,4,2.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/750867427105982018.jpg
+4982,5900,3.0,2,1248,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/5829846879182067680.jpg
+1523,6650,4.0,2,1501,3,6.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/849.jpg
+4869,2500,2.0,1,800,6,3.0,88,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/271299053326240237.jpg
+9373,1450,1.0,1,700,12,5.0,78,0,0,0,0,0,0,0,0,East Flatbush,Brooklyn,/photos/flat_plans/3418492656235928485.jpg
+6854,1375,0.0,1,552,6,4.0,59,1,0,0,0,0,0,0,0,Gravesend,Brooklyn,/photos/flat_plans/3690215814884032384.jpg
+10929,4300,2.0,2,915,2,3.0,5,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3789312883433589889.jpg
+60,4800,2.0,2,1100,7,10.0,5,1,1,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/flat_plans/4573325080081275421.jpg
+7549,2100,2.0,1,1095,13,6.0,55,1,0,0,0,0,0,0,0,Sheepshead Bay,Brooklyn,/photos/interior/6641743507167968119.jpg
+10532,1875,0.0,1,500,7,1.0,116,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/4249789463411193468.jpg
+2003,3099,3.0,2,1000,3,2.0,85,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/8385123055897887984.jpg
+4431,3942,2.0,2,1154,10,9.0,6,1,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/4400537891763654524.jpg
+187,2765,1.0,1,405,4,5.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/4529150389366760344.jpg
+9964,2400,0.0,1,492,2,2.0,5,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/861672727614229759.jpg
+10657,2400,2.0,1,700,3,1.0,85,0,0,0,0,0,0,0,0,Windsor Terrace,Brooklyn,/photos/buildings/7128518727089160938.jpg
+3900,3080,1.0,1,590,1,11.0,17,1,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/flat_plans/6168546398561711223.jpg
+9754,2500,1.5,1,800,9,4.0,116,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/entrance/514.jpg
+10112,1795,1.0,1,900,8,6.0,78,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/interior/6874588932596900032.jpg
+6617,2395,3.0,1,950,4,3.0,109,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/1560638516093754082.jpg
+113,4595,2.0,2,900,1,44.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/2922430555474949227.jpg
+8034,1795,1.5,1,850,4,2.0,111,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/entrance/22.jpg
+9056,3000,2.0,1,1000,6,4.0,111,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/8506037634073617569.jpg
+7842,2585,0.0,1,408,1,12.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/8649367140555073140.jpg
+525,3495,1.0,1,620,6,2.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/380021361728898359.jpg
+754,2695,2.0,1,900,4,2.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6433496827701513303.jpg
+6031,3200,1.0,1,850,3,4.0,96,0,1,1,1,1,1,1,1,Fort Greene,Brooklyn,/photos/interior/1694285479735723352.jpg
+4432,1875,2.0,1,930,6,4.0,57,1,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/entrance/375.jpg
+2080,3100,1.0,1,664,9,8.0,4,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6184703251310167768.jpg
+2720,2930,1.0,1,618,1,9.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/buildings/8712093972663432475.jpg
+5866,4250,2.0,2,976,7,3.0,8,0,0,0,1,1,1,0,1,Greenpoint,Brooklyn,/photos/interior/2179643119323625714.jpg
+9271,3100,1.0,1,675,2,2.0,7,1,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/1299.jpg
+6913,1400,1.0,1,650,2,2.0,85,0,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/entrance/471.jpg
+4880,1650,0.0,1,250,2,10.0,86,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/flat_plans/3100384979796768619.jpg
+1644,3000,3.0,2,1150,11,1.0,12,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/entrance/755.jpg
+11204,2383,2.0,1,1130,2,3.0,52,1,0,0,0,0,0,0,0,Coney Island,Brooklyn,/photos/entrance/38.jpg
+10585,2769,3.0,1,1438,6,22.0,89,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/interior/8791287054582005539.jpg
+11195,2764,1.0,1,648,3,7.0,0,1,0,0,0,0,0,0,0,Prospect Park South,Brooklyn,/photos/flat_plans/9204622790240505116.jpg
+1185,2550,2.0,1,850,4,2.0,88,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1229.jpg
+11054,2658,0.0,1,618,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1178.jpg
+5446,4200,2.0,2,955,9,5.0,16,0,0,0,1,1,0,0,0,Park Slope,Brooklyn,/photos/interior/5534502232902270750.jpg
+7866,2800,3.0,1,2500,4,6.0,53,0,0,0,1,1,0,0,0,Ocean Parkway,Brooklyn,/photos/interior/4352346011546007332.jpg
+6036,1800,2.0,2,1000,3,2.0,111,1,0,0,0,0,0,0,0,East New York,Brooklyn,/photos/flat_plans/6922210345570688875.jpg
+2865,2735,2.0,1,890,2,5.0,9,1,0,1,1,1,0,0,0,Bushwick,Brooklyn,/photos/windows/168.jpg
+6283,2800,1.0,1,700,6,2.0,5,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/entrance/287.jpg
+3438,1850,1.0,1,650,7,2.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/964.jpg
+213,3200,3.0,1,1150,6,3.0,111,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/buildings/4773123447508628488.jpg
+3180,2975,0.0,1,1000,7,3.0,79,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/buildings/6465698299583754023.jpg
+5559,1846,0.0,1,558,3,4.0,76,1,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/interior/5052313147359002789.jpg
+4185,3850,2.0,1,753,3,4.0,109,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4883665146074680251.jpg
+6992,4350,3.0,1,950,2,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/467.jpg
+433,3050,4.0,2,1000,6,2.0,81,0,0,0,0,0,0,0,0,Flatbush,Brooklyn,/photos/interior/8573240170581891507.jpg
+1785,4900,2.0,2,1071,4,4.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/589.jpg
+6308,2600,2.0,1,850,2,4.0,86,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/3291027016431886880.jpg
+3461,3100,1.0,2,948,4,2.0,12,0,0,0,1,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/7500586463654235747.jpg
+2258,2850,3.0,1,1000,3,4.0,116,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/3185788359735966522.jpg
+6289,2450,2.0,2,1156,3,4.0,57,1,0,0,0,0,0,0,0,Sunset Park,Brooklyn,/photos/flat_plans/5043622471117984388.jpg
+6578,6850,3.0,2,1691,7,8.0,100,0,0,0,1,0,0,1,0,Williamsburg,Brooklyn,/photos/flat_plans/8891089060684759674.jpg
+8411,2000,2.0,1,1000,2,2.0,106,0,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/windows/320.jpg
+7174,1550,1.0,1,682,4,3.0,96,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/2956443292196032533.jpg
+10280,2200,1.0,1,700,4,1.0,106,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/633.jpg
+3052,3500,0.0,1,1200,7,6.0,79,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/1077.jpg
+3434,4000,0.0,1,1100,6,3.0,88,0,0,0,1,1,0,0,1,Brooklyn Heights,Brooklyn,/photos/buildings/6388098808215458900.jpg
+5785,4600,2.0,2,1463,4,1.0,8,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/interior/1279427025081363953.jpg
+8832,4350,2.0,2,2200,43,1.0,10,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/entrance/223.jpg
+5970,2999,2.0,1,750,3,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/8775079820194340666.jpg
+6281,2400,1.0,1,800,1,7.0,70,0,1,0,1,1,1,0,1,Clinton Hill,Brooklyn,/photos/entrance/619.jpg
+4084,3000,1.0,1,600,0,4.0,96,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/windows/602.jpg
+8477,1925,1.0,1,860,2,1.0,12,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/4011704090882807656.jpg
+7214,2400,1.0,1,850,9,4.0,96,0,0,0,0,0,0,0,0,Carroll Gardens,Brooklyn,/photos/interior/4557289058800337092.jpg
+9735,2700,2.0,1,1000,4,5.0,4,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/entrance/459.jpg
+3647,4395,2.0,2,977,1,16.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/964.jpg
+6618,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,Brooklyn,/photos/windows/708.jpg
+10132,3295,2.0,1,950,2,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/8206010649262482918.jpg
+7467,2200,1.0,1,400,6,4.0,96,0,0,0,1,0,0,0,0,Park Slope,Brooklyn,/photos/interior/4806910027800055426.jpg
+5862,4395,4.0,3,1200,5,1.0,85,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/1584899550211172860.jpg
+159,3595,1.0,1,822,1,6.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/4857587103771482029.jpg
+4454,2700,1.0,1,680,8,2.0,9,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/2179643119323625714.jpg
+6991,2995,2.0,1,850,2,2.0,11,1,0,0,0,0,1,0,0,Bushwick,Brooklyn,/photos/flat_plans/8714057625357870406.jpg
+3760,3700,2.0,2,1186,9,4.0,8,0,0,0,0,0,0,1,0,Clinton Hill,Brooklyn,/photos/interior/1807098773294978842.jpg
+6309,5900,3.0,2,1248,8,5.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8750978354628386758.jpg
+10792,3550,2.0,2,1100,13,3.0,116,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/buildings/3201183251674289957.jpg
+8836,3241,1.0,1,672,6,1.0,2,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3709510403541264026.jpg
+27,2600,1.0,1,800,2,2.0,88,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/1195327794635593947.jpg
+8917,2999,2.0,1,750,3,2.0,8,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/8789594729144909016.jpg
+900,3250,3.0,1,749,4,2.0,85,0,0,0,0,0,0,0,0,Gowanus,Brooklyn,/photos/buildings/4436916698582938418.jpg
+6735,4500,2.0,2,1028,10,4.0,10,0,0,1,0,1,0,0,1,Prospect Heights,Brooklyn,/photos/buildings/6230964761702929888.jpg
+9699,1995,2.0,1,900,7,2.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/flat_plans/2837161415899456857.jpg
+5287,2100,0.0,1,425,4,3.0,96,0,0,0,0,0,0,0,0,Fort Greene,Brooklyn,/photos/windows/1003.jpg
+10175,3895,4.0,1,1100,4,2.0,106,1,1,1,1,0,0,0,0,Crown Heights,Brooklyn,/photos/windows/1291.jpg
+6291,1625,0.0,1,456,6,4.0,54,1,0,0,0,0,0,0,0,Windsor Terrace,Brooklyn,/photos/interior/4682147322468762021.jpg
+1906,3000,2.0,1,750,4,2.0,14,0,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/interior/2472507300280974202.jpg
+6253,1475,0.0,1,600,6,2.0,56,0,0,0,0,0,0,0,0,Bay Ridge,Brooklyn,/photos/buildings/1591945228354149695.jpg
+2458,2700,3.0,1,900,5,1.0,106,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/324.jpg
+11201,4025,2.0,2,1050,3,5.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/buildings/2142727869511651208.jpg
+6163,3850,2.0,2,1026,3,6.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/664.jpg
+10607,4190,1.0,1,621,5,3.0,1,1,0,0,0,0,0,0,0,DUMBO,Brooklyn,/photos/flat_plans/3210479839656174025.jpg
+5107,4200,2.0,2,1062,2,3.0,10,0,0,1,0,0,1,1,0,Boerum Hill,Brooklyn,/photos/windows/536.jpg
+9305,2500,1.0,1,760,7,3.0,7,1,1,0,1,1,1,0,0,Bedford-Stuyvesant,Brooklyn,/photos/windows/597.jpg
+10365,2480,0.0,1,402,1,33.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/852.jpg
+4140,2875,0.0,1,508,10,8.0,116,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/334.jpg
+713,2150,3.0,1,1000,3,3.0,106,1,0,0,1,1,1,0,0,Bedford-Stuyvesant,Brooklyn,/photos/buildings/4957066286768501080.jpg
+5411,3899,0.0,1,1040,3,2.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1476301790729838565.jpg
+6611,3500,2.0,1,850,2,1.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/1278346529151116603.jpg
+11068,2500,2.0,1,800,3,3.0,86,0,0,0,0,0,0,0,0,Greenwood,Brooklyn,/photos/entrance/11.jpg
+3521,1850,1.0,1,600,2,2.0,96,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/6441373764186762333.jpg
+6741,3270,0.0,1,470,5,2.0,85,1,0,0,0,0,0,0,0,Cobble Hill,Brooklyn,/photos/flat_plans/3636231268397711147.jpg
+1766,3100,1.0,1,709,6,31.0,11,0,0,0,1,1,0,0,0,Downtown Brooklyn,Brooklyn,/photos/entrance/889.jpg
+7641,3300,0.0,1,1000,11,3.0,116,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4580998037642842838.jpg
+6960,2635,1.0,1,550,9,7.0,86,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/8448550895746310180.jpg
+6434,4500,3.0,2,1500,6,3.0,5,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/7739686761571695290.jpg
+6059,2250,1.0,1,650,9,5.0,111,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/interior/790881284054419236.jpg
+10622,3375,2.0,1,1200,3,1.0,11,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/6331822966615705537.jpg
+4729,3350,1.0,1,719,4,3.0,9,1,0,0,1,1,0,0,0,Williamsburg,Brooklyn,/photos/entrance/1183.jpg
+1180,3195,1.0,1,801,1,12.0,10,0,0,1,1,1,0,0,1,DUMBO,Brooklyn,/photos/flat_plans/195252934257112249.jpg
+1280,3184,3.0,2,900,1,4.0,117,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/entrance/628.jpg
+592,3099,0.0,1,710,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/5772216694814459569.jpg
+9244,6923,3.0,2,1274,8,6.0,3,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/windows/216.jpg
+8228,4595,2.0,2,1051,1,11.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/3291027016431886880.jpg
+5854,2300,2.0,1,750,7,4.0,88,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/flat_plans/8953628934170253304.jpg
+2486,2660,0.0,1,496,4,26.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/7445818371404092813.jpg
+3118,2100,0.0,1,375,3,4.0,174,0,0,0,0,0,0,0,0,Brooklyn Heights,Brooklyn,/photos/buildings/559597714195005976.jpg
+9441,3950,2.0,1,1150,5,3.0,116,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/entrance/488.jpg
+10180,2250,2.0,1,900,5,3.0,109,1,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/6315008834081347888.jpg
+1424,3300,1.0,1,938,3,7.0,2,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/3319381432025304112.jpg
+6699,1850,1.0,1,700,7,7.0,54,0,0,0,0,0,0,0,0,Prospect Lefferts Gardens,Brooklyn,/photos/entrance/503.jpg
+5066,4600,2.0,2,1169,1,4.0,10,1,1,0,1,1,1,0,1,DUMBO,Brooklyn,/photos/buildings/327446275625353341.jpg
+7699,3000,1.0,1,670,5,6.0,96,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/5430516371853088823.jpg
+3394,3800,2.0,1,1000,7,2.0,95,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/2239129701513267018.jpg
+3747,4700,3.0,2,1600,4,1.0,85,0,0,0,0,0,0,0,0,Prospect Heights,Brooklyn,/photos/buildings/4711646522143689660.jpg
+7725,1750,1.0,1,780,8,2.0,115,0,0,0,0,0,0,0,0,Brighton Beach,Brooklyn,/photos/entrance/152.jpg
+1264,4150,0.0,1,885,3,4.0,85,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/2714927020766817979.jpg
+2000,2300,1.0,1,800,4,2.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4430622066769395970.jpg
+8086,2300,2.0,1,750,3,1.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/8436527187323881174.jpg
+9905,1600,0.0,1,500,5,1.0,115,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/windows/541.jpg
+5620,1850,1.0,1,700,6,2.0,96,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/flat_plans/4629296471775770770.jpg
+8992,4095,2.0,1,900,2,68.0,8,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/4355692951784552840.jpg
+4212,2750,1.0,1,698,12,4.0,9,1,0,0,0,1,0,0,0,Clinton Hill,Brooklyn,/photos/interior/9062435267230692067.jpg
+3904,16000,2.0,3,2592,5,9.0,100,0,1,0,0,0,1,1,1,DUMBO,Brooklyn,/photos/buildings/107682325261367391.jpg
+6004,1900,1.0,1,800,2,3.0,105,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/interior/1333536165706716824.jpg
+1062,4000,2.0,1,950,1,3.0,115,0,0,0,0,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/3474093392521725679.jpg
+2067,2850,1.0,1,800,12,3.0,9,0,0,0,0,0,0,0,0,Clinton Hill,Brooklyn,/photos/buildings/5083402668218692114.jpg
+9700,1795,2.0,1,750,5,1.0,85,0,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/windows/563.jpg
+9740,2580,0.0,1,469,1,19.0,7,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/windows/770.jpg
+6076,3500,4.0,2,1500,7,2.0,86,1,0,0,0,0,0,0,0,Bushwick,Brooklyn,/photos/windows/1228.jpg
+3985,5300,2.0,2,1318,6,14.0,13,1,0,0,0,1,0,0,0,Williamsburg,Brooklyn,/photos/buildings/2142727869511651208.jpg
+1329,3815,1.0,1,750,1,17.0,5,0,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/flat_plans/6409125460933362947.jpg
+4163,1700,1.0,1,367,4,3.0,106,0,0,0,0,0,0,0,0,Bedford-Stuyvesant,Brooklyn,/photos/interior/1324207816006735523.jpg
+4703,2800,1.0,1,735,1,2.0,96,0,0,0,1,0,0,0,0,Park Slope,Brooklyn,/photos/flat_plans/5395811127360343584.jpg
+10561,3900,2.0,2,1000,1,5.0,106,1,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2013212778633116309.jpg
+6440,3750,2.0,1,1400,1,2.0,117,0,0,0,0,0,0,0,0,Boerum Hill,Brooklyn,/photos/interior/3273746409777495068.jpg
+3433,3700,2.0,2,848,7,2.0,66,1,0,0,0,0,0,0,0,Crown Heights,Brooklyn,/photos/flat_plans/22653751662491410.jpg
+7329,2300,1.0,1,900,5,2.0,88,0,0,0,0,0,0,0,0,Greenpoint,Brooklyn,/photos/interior/9062435267230692067.jpg
+10286,3750,3.0,2,1531,1,1.0,10,0,0,1,1,1,1,0,0,Crown Heights,Brooklyn,/photos/interior/6975413300290522832.jpg
+9169,4000,2.0,1,1080,5,1.0,117,0,0,0,0,0,0,0,0,Williamsburg,Brooklyn,/photos/interior/2609250171198966643.jpg
+1721,4200,2.0,2,977,1,5.0,5,1,0,0,0,0,0,0,0,Downtown Brooklyn,Brooklyn,/photos/interior/6934505926098836463.jpg
+1676,18000,3.0,2,2470,3,5.0,116,0,1,1,1,1,1,0,1,DUMBO,Brooklyn,/photos/entrance/323.jpg

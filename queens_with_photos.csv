@@ -1,0 +1,449 @@
+rental_id,rent,bedrooms,bathrooms,size_sqft,min_to_subway,floor,building_age_yrs,no_fee,has_roofdeck,has_washer_dryer,has_doorman,has_elevator,has_dishwasher,has_patio,has_gym,neighborhood,borough,photo_url
+10234,3000,3.0,1,1000,4,1.0,106,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/1928218639343054941.jpg
+10524,1950,1.0,1,950,1,3.0,83,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/8436527187323881174.jpg
+5465,3500,1.0,1,996,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/375376275327111555.jpg
+5259,1725,1.0,1,800,1,2.0,89,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/228989771477653582.jpg
+9736,1700,1.0,1,730,10,3.0,7,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/buildings/173757730894805391.jpg
+3833,2550,2.0,1,1000,4,3.0,20,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/buildings/5015918846460107411.jpg
+4315,2550,2.0,1,1081,2,3.0,65,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/4630158852776296236.jpg
+3545,3100,1.0,1,787,6,3.0,9,1,1,0,1,1,0,1,0,Long Island City,Queens,/photos/flat_plans/1366762959213845572.jpg
+5606,1399,0.0,1,580,8,1.0,13,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/interior/1744732218049177191.jpg
+1746,2275,0.0,1,481,3,27.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/6198718515596067941.jpg
+10315,3400,3.0,2,1200,2,2.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7817144189916893359.jpg
+8385,2695,1.0,1,875,8,15.0,56,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/8091101281182989028.jpg
+3257,4275,2.0,2,913,6,16.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/4741251861914155468.jpg
+194,2000,2.0,1,1000,7,3.0,76,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/3265257029891506581.jpg
+9386,2200,1.0,1,886,8,4.0,58,1,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/4227081292096446749.jpg
+10593,2400,2.0,1,825,11,2.0,88,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/185466765024866334.jpg
+8402,1850,1.0,1,1000,2,1.0,11,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/1820111061555438348.jpg
+987,1600,0.0,1,600,3,5.0,65,0,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/entrance/1208.jpg
+6861,2025,2.0,1,891,6,2.0,54,1,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/interior/7522549755182316122.jpg
+10963,1900,1.0,1,900,3,7.0,61,1,0,0,0,0,0,0,0,Elmhurst,Queens,/photos/flat_plans/7139298607607063998.jpg
+6743,2200,1.0,1,665,27,4.0,12,1,0,0,0,0,0,0,0,Kew Gardens Hills,Queens,/photos/buildings/3663896765604258199.jpg
+8457,2000,1.0,1,482,8,4.0,86,0,0,0,0,0,0,0,0,Corona,Queens,/photos/flat_plans/6717565711181043904.jpg
+2334,3295,2.0,2,1368,3,3.0,7,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/5187811510430639431.jpg
+5844,2350,1.0,1,600,5,6.0,12,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/8971716183967427882.jpg
+6754,3450,1.0,1,888,2,6.0,8,0,0,1,1,1,1,0,1,Long Island City,Queens,/photos/buildings/7579311023357282598.jpg
+9307,1450,1.0,1,700,8,3.0,92,0,0,0,0,0,0,0,0,Richmond Hill,Queens,/photos/flat_plans/479388512858315799.jpg
+3516,1975,1.0,1,700,43,20.0,42,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/flat_plans/3210479839656174025.jpg
+3768,2995,3.0,2,1360,4,1.5,71,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/flat_plans/7440173360481103098.jpg
+7439,2900,3.0,1,1200,10,2.0,96,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/6780076729267321255.jpg
+5133,2000,1.0,1,750,9,5.0,15,0,0,1,0,0,1,0,0,Kew Gardens,Queens,/photos/windows/697.jpg
+8317,1495,0.0,1,550,2,1.0,91,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/windows/669.jpg
+10885,3400,1.0,1,1000,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/2700548501891028360.jpg
+3253,3000,1.0,1,630,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/4216981912224561917.jpg
+6838,2535,1.0,1,570,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/7128518727089160938.jpg
+9816,2945,1.0,1,940,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/6713035541737049843.jpg
+10312,1900,1.0,1,678,5,4.0,64,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/5935037424531728648.jpg
+6623,2450,2.0,2,1200,10,2.0,76,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/interior/6395195299983290536.jpg
+4281,1700,1.0,1,575,12,3.0,16,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/1303.jpg
+3369,1995,1.0,1,600,14,1.0,68,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/798298954710101236.jpg
+9365,1800,1.0,1,700,1,3.0,87,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/6186336666201514463.jpg
+4975,1600,0.0,1,490,3,1.0,66,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/entrance/242.jpg
+8545,1835,1.0,1,600,4,10.0,86,1,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/9155024342193446857.jpg
+5208,1625,1.0,1,815,4,7.0,52,0,0,0,0,0,0,0,0,Jamaica Estates,Queens,/photos/interior/7506089387794057269.jpg
+11320,3450,1.0,1,800,6,9.0,9,1,0,1,1,1,0,0,0,Long Island City,Queens,/photos/buildings/6587925182526920244.jpg
+4997,1625,1.0,1,620,18,4.0,85,1,0,0,0,0,0,0,0,Queens Village,Queens,/photos/windows/639.jpg
+5614,3275,1.0,1,630,6,15.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/265.jpg
+7546,2500,1.0,1,700,15,4.0,116,0,0,1,1,1,0,0,0,Astoria,Queens,/photos/entrance/918.jpg
+2928,3410,1.0,1,759,6,5.0,3,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/4675824120870322615.jpg
+3374,1650,1.0,1,750,4,1.0,90,0,0,0,0,0,0,0,0,Woodhaven,Queens,/photos/interior/601714399261708336.jpg
+86,2050,0.0,1,500,11,6.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/72.jpg
+6547,1850,2.0,1,900,3,3.0,86,0,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/buildings/2856970212630963590.jpg
+9693,2295,1.0,1,863,11,3.0,8,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/5279375085590698628.jpg
+8969,1700,1.0,1,550,2,27.0,87,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/669818734925317711.jpg
+7009,2595,1.0,1,752,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/4811789945232708635.jpg
+8534,2695,2.0,1,800,10,1.0,94,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/677.jpg
+9005,1550,1.0,1,710,4,2.0,21,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/4446273472779150241.jpg
+6303,2550,1.0,1,650,9,3.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/4621500603730575061.jpg
+4787,3300,1.0,1,787,43,4.0,5,0,0,0,1,0,0,0,0,Long Island City,Queens,/photos/interior/4905871914680228352.jpg
+5616,2955,1.0,1,630,6,16.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/566793309528900695.jpg
+7371,1575,1.0,1,770,1,3.0,60,0,0,0,0,0,0,0,0,Jamaica Estates,Queens,/photos/entrance/1338.jpg
+7883,3795,2.0,2,911,1,3.0,85,0,0,0,1,1,1,0,0,Long Island City,Queens,/photos/entrance/754.jpg
+5779,2550,1.0,1,750,3,16.0,6,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/flat_plans/6733763652771807358.jpg
+2815,2750,2.0,2,1000,6,1.0,116,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/869.jpg
+1969,2825,1.0,1,651,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/974.jpg
+1094,2995,1.0,1,700,2,2.0,9,1,1,1,0,0,1,0,1,Long Island City,Queens,/photos/entrance/270.jpg
+6803,2550,2.0,1,985,9,3.0,85,0,0,0,0,0,0,1,0,Sunnyside,Queens,/photos/interior/3564327471183650799.jpg
+3823,2650,0.0,1,518,6,3.0,85,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/380.jpg
+8687,2395,1.0,1,700,4,3.0,9,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/601.jpg
+7982,1741,0.0,1,487,27,4.0,12,1,0,0,0,0,0,0,0,Kew Gardens Hills,Queens,/photos/interior/6127942595355779317.jpg
+9416,4850,2.0,2,1225,2,8.0,96,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/7569258632819290641.jpg
+2639,1950,1.0,1,850,7,3.0,61,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/entrance/64.jpg
+1107,2650,1.0,1,985,5,5.0,71,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/3394796234949686575.jpg
+8909,1950,1.0,1,950,1,3.0,83,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/flat_plans/1800608435845278064.jpg
+5059,2150,1.0,1,800,3,3.0,80,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/8066557145838686358.jpg
+1970,3500,1.0,1,988,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/6498512032260147078.jpg
+8863,1465,1.0,1,470,2,2.0,85,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/entrance/1132.jpg
+5810,2300,2.0,1,1020,5,1.0,65,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/interior/1901101126851292127.jpg
+9643,2100,1.0,1,500,2,3.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/2739649903627462301.jpg
+9047,3700,3.0,2,1600,4,4.0,20,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/1212712431080198185.jpg
+3185,2870,1.0,1,673,3,24.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/8196154857207251153.jpg
+8025,2395,1.0,1,600,9,2.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/140.jpg
+409,4199,4.0,3,1500,2,1.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/entrance/671.jpg
+1220,3200,4.0,1,1260,1,1.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/entrance/1080.jpg
+5458,2395,1.0,1,700,9,3.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/1800608435845278064.jpg
+8235,1700,1.0,1,600,17,14.0,20,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/7937845917346704413.jpg
+3834,5700,2.0,2,1194,1,7.0,6,0,1,1,1,1,0,1,1,Long Island City,Queens,/photos/entrance/669.jpg
+4342,4100,2.0,2,1202,2,3.0,4,1,0,0,1,1,0,0,1,Long Island City,Queens,/photos/interior/7973622248943842253.jpg
+11009,1600,1.0,1,650,0,3.0,95,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/windows/498.jpg
+5650,4475,2.0,2,953,6,19.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/1261.jpg
+1971,3500,1.0,1,996,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/616.jpg
+9437,1900,2.0,1,900,2,3.0,16,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/1085534526533916389.jpg
+5944,2495,3.0,1,1400,2,1.0,13,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/225173259057663562.jpg
+10311,2350,2.0,1,1073,14,3.0,61,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/2556407241942060154.jpg
+7764,2000,1.0,1,708,10,2.0,55,1,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/4463376075789126496.jpg
+5185,2700,1.0,1,720,9,7.0,4,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/203.jpg
+10846,2300,2.0,1,800,5,1.0,91,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/6877436420213301759.jpg
+4311,1550,0.0,1,350,1,1.0,86,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/1474328760097581979.jpg
+9084,2950,0.0,1,552,5,12.0,4,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/5679853988626712098.jpg
+4902,1250,0.0,1,410,1,3.0,60,0,0,0,0,0,0,0,0,Jamaica Estates,Queens,/photos/interior/3265257029891506581.jpg
+7575,3500,1.0,1,1178,2,5.0,96,1,0,0,1,1,0,0,1,Long Island City,Queens,/photos/interior/5823559837080889396.jpg
+4333,2550,2.0,1,975,9,4.0,85,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/windows/1211.jpg
+9318,4450,2.0,2,1050,3,29.0,20,0,1,0,0,0,1,0,0,Long Island City,Queens,/photos/windows/522.jpg
+5617,5575,3.0,2,1023,6,14.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/2584677242006676175.jpg
+4995,2795,2.0,2,1126,8,3.0,93,0,1,0,1,1,0,0,1,Kew Gardens,Queens,/photos/windows/1042.jpg
+11004,1825,1.0,1,680,13,2.0,52,1,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/entrance/923.jpg
+7250,2225,2.0,1,750,5,2.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/5699532907555186707.jpg
+2006,2950,1.0,1,850,3,1.0,6,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/entrance/510.jpg
+7452,1590,1.0,1,700,7,5.0,51,0,0,0,0,0,0,0,0,Woodside,Queens,/photos/entrance/5.jpg
+7786,2050,2.0,1,900,16,2.0,75,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/8905253789082295243.jpg
+2980,2800,2.0,1,1100,43,2.0,7,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/3718589084829982937.jpg
+2177,2600,1.0,1,1031,5,2.0,71,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/5013354795538680564.jpg
+10619,2700,2.0,1,800,8,1.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/36.jpg
+3213,4085,2.0,2,913,6,19.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/380021361728898359.jpg
+4218,2200,0.0,1,600,3,3.0,88,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/422.jpg
+11256,2498,2.0,1,784,27,5.0,12,1,0,0,0,0,0,0,0,Kew Gardens Hills,Queens,/photos/flat_plans/5769089694499291283.jpg
+248,2650,0.0,1,550,9,25.0,2,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/1071.jpg
+6222,1450,1.0,1,575,1,7.0,61,0,0,0,0,0,0,0,0,Jamaica Estates,Queens,/photos/flat_plans/8332110454386206571.jpg
+8003,3325,1.0,1,629,6,16.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/5537831243730080443.jpg
+8766,1500,1.0,1,650,3,4.0,86,0,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/entrance/729.jpg
+9690,2750,2.0,1,800,8,1.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/8152016773956122794.jpg
+10731,2745,1.0,1,700,1,6.0,2,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/windows/921.jpg
+3364,3911,2.0,2,913,6,18.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/3072956846368718274.jpg
+8354,2535,1.0,1,615,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/5408549726269046259.jpg
+5566,2250,2.0,1,750,5,2.0,92,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/7975013897127718431.jpg
+2430,1350,0.0,1,450,8,4.0,54,0,0,0,1,0,0,0,0,Elmhurst,Queens,/photos/entrance/1123.jpg
+3186,2907,1.0,1,706,3,5.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/7717954237395707420.jpg
+5257,2550,2.0,2,850,7,2.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/6001468728211292548.jpg
+4559,1950,1.0,1,715,10,1.0,84,1,1,0,1,1,1,1,1,Kew Gardens,Queens,/photos/flat_plans/5372609863610989112.jpg
+8928,2800,1.0,1,640,2,11.0,9,0,0,0,0,0,1,0,0,Long Island City,Queens,/photos/entrance/919.jpg
+5985,3400,2.0,2,1400,4,3.0,22,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/7476035453600882674.jpg
+10961,2400,2.0,1,969,3,2.0,75,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/111880740228784401.jpg
+8776,1400,0.0,1,600,7,3.0,89,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/flat_plans/6826269419913451499.jpg
+11154,1725,1.0,1,720,2,2.0,14,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/windows/149.jpg
+4382,2800,2.0,2,1000,9,1.0,101,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/344.jpg
+7149,1700,1.5,1,600,3,2.0,86,0,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/2789418616042163912.jpg
+7282,2275,0.0,1,500,43,5.0,5,0,0,0,1,0,0,0,0,Long Island City,Queens,/photos/flat_plans/5451147040570460390.jpg
+8520,2600,1.0,1,705,6,2.0,8,0,0,0,0,0,1,0,0,Astoria,Queens,/photos/interior/8212919845077871614.jpg
+325,2500,2.0,1,680,3,11.0,88,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/4490335399765455341.jpg
+3636,2000,1.0,1,650,3,6.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/1243018098189918456.jpg
+6571,3800,2.0,0,1047,10,12.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/2625984262717517812.jpg
+1952,3160,1.0,1,721,6,20.0,3,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/1907322390858563646.jpg
+11166,2650,1.0,1,875,8,16.0,56,1,1,1,0,1,1,0,0,Forest Hills,Queens,/photos/buildings/221425412662398658.jpg
+112,1750,1.0,1,720,2,2.0,15,0,1,0,1,1,1,0,0,Forest Hills,Queens,/photos/flat_plans/5534183829027881145.jpg
+2399,2000,1.0,1,900,4,3.0,70,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/4655003763642408732.jpg
+10793,1750,1.0,1,685,17,3.0,57,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/flat_plans/3554459863165680126.jpg
+9038,1750,1.0,1,850,3,4.0,75,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/1139663211691109345.jpg
+10628,1995,2.0,1,850,37,5.0,53,1,0,0,0,0,0,0,0,Queens Village,Queens,/photos/entrance/911.jpg
+6697,1550,1.0,1,600,3,2.0,87,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/6381300981512363555.jpg
+5278,3300,2.0,1,858,10,6.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/300.jpg
+10889,2200,2.0,2,1200,1,2.0,76,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/4369171400945158616.jpg
+5648,2535,1.0,1,575,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/9139210904176546505.jpg
+10612,2300,0.0,1,484,5,6.0,10,0,1,0,0,0,1,0,0,Long Island City,Queens,/photos/buildings/2176772104263089568.jpg
+9419,3139,1.0,1,706,3,18.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/3244156503287587303.jpg
+5894,1950,1.0,1,480,10,2.0,1,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/498958201789429325.jpg
+6948,1925,0.0,1,460,2,1.0,9,0,0,0,0,0,1,1,0,Astoria,Queens,/photos/flat_plans/6920461158066279020.jpg
+8183,1650,1.0,1,750,4,1.0,20,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/windows/645.jpg
+4246,2350,2.0,2,850,10,2.0,9,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/interior/7921483163703498998.jpg
+5865,2600,2.0,1,1000,3,6.0,13,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/entrance/299.jpg
+10343,1800,1.0,1,800,12,3.0,65,0,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/buildings/6927035835592602027.jpg
+2011,1475,0.0,1,448,12,3.0,60,1,1,0,1,1,1,0,1,Forest Hills,Queens,/photos/interior/3717864739939201849.jpg
+5895,3300,1.0,1,762,10,7.0,8,1,1,0,1,1,0,0,1,Long Island City,Queens,/photos/interior/4703500512692897780.jpg
+9876,2200,1.0,1,665,27,4.0,12,1,0,0,0,0,0,0,0,Kew Gardens Hills,Queens,/photos/entrance/511.jpg
+8260,1475,0.0,0,380,1,3.0,86,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/1507225397864241805.jpg
+8164,3495,1.0,1,985,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/6033975103815396396.jpg
+3204,3000,1.0,1,629,6,19.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/159955308802227335.jpg
+6380,2200,1.0,1,487,3,4.0,6,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/233478963633624917.jpg
+3853,3200,1.0,1,875,3,10.0,20,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/8758101272863455357.jpg
+8684,1850,1.0,1,550,2,2.0,98,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/8197416571911679546.jpg
+1968,2800,1.0,1,591,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/1041051549930574281.jpg
+1965,2650,1.0,1,648,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/3131855552623860605.jpg
+7413,2350,2.0,2,1250,8,5.0,54,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/5256117581652884616.jpg
+9390,1650,1.0,1,809,18,1.0,53,1,0,0,1,0,0,0,0,Flushing,Queens,/photos/windows/1069.jpg
+4755,1600,0.0,1,650,12,1.0,60,1,0,1,0,0,0,0,0,Kew Gardens,Queens,/photos/buildings/1990512121986941897.jpg
+4096,1650,1.0,1,820,2,3.0,87,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/1246480172103068645.jpg
+2646,1500,1.0,1,621,6,4.0,13,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/flat_plans/7025684522374857644.jpg
+8454,3950,2.0,2,1100,6,6.0,2,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/2325013187422731962.jpg
+5605,1625,0.0,1,550,2,4.0,74,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/207284745292456252.jpg
+9382,1800,0.0,1,588,5,8.0,56,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/1518581799890662145.jpg
+839,2175,2.0,2,1000,2,4.0,14,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/3162830441843575504.jpg
+629,3350,1.0,1,600,4,7.0,86,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/916.jpg
+4158,2950,3.0,2,1413,2,4.0,68,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/822063571426551125.jpg
+3009,2499,3.0,1,800,10,1.0,88,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/195.jpg
+3903,1800,1.0,1,850,1,2.0,57,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/3179055800718052055.jpg
+5754,3125,1.0,1,691,6,3.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/6314524890256689359.jpg
+5767,5350,3.0,2,1023,6,21.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/6610816530671883934.jpg
+8312,2550,3.0,1,900,11,2.0,88,0,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/windows/653.jpg
+8360,1350,1.0,1,400,18,4.0,85,1,0,0,0,0,0,0,0,Queens Village,Queens,/photos/interior/7316727891725718078.jpg
+8461,2450,2.0,1,1111,3,5.0,62,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/flat_plans/2378958468952096270.jpg
+2922,4500,2.0,2,1285,3,3.0,9,1,1,0,0,0,1,1,0,Long Island City,Queens,/photos/flat_plans/383585474952906101.jpg
+8993,1450,1.0,1,550,20,4.0,85,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/interior/8212919845077871614.jpg
+5761,3911,2.0,2,913,6,18.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/3072956846368718274.jpg
+10246,1900,1.0,1,700,5,1.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/4739939039707924828.jpg
+4724,1350,0.0,1,350,10,3.0,66,0,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/entrance/741.jpg
+8313,2850,3.0,1,900,11,2.0,52,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/894316450657812170.jpg
+10579,2600,1.0,1,812,6,1.0,61,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/interior/5612837720036492478.jpg
+9281,1550,0.0,1,449,3,3.0,66,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/windows/890.jpg
+7017,2750,1.0,1,570,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/2638376812149260016.jpg
+7226,2200,0.0,1,500,3,7.0,88,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/3316093142463157683.jpg
+5380,3300,4.0,1,1100,1,3.0,51,0,0,0,0,0,0,0,0,Elmhurst,Queens,/photos/flat_plans/4891387595894896864.jpg
+296,3300,3.0,1,1000,2,4.0,3,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/1366842911419696974.jpg
+6200,2200,2.0,2,800,2,1.0,86,0,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/3083903558794258954.jpg
+828,2725,0.0,1,537,6,3.0,85,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/1597084639548943140.jpg
+1911,2900,1.0,1,786,1,5.0,10,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/3508822252771099986.jpg
+7538,2550,2.0,1,700,9,2.0,15,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/8800478913893057781.jpg
+1175,2700,1.0,1,699,14,7.0,9,1,1,0,0,0,0,0,0,Astoria,Queens,/photos/interior/5645383159453048481.jpg
+5423,2200,1.0,1,1000,1,6.0,79,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/windows/125.jpg
+1773,2100,2.0,1,850,4,2.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/394895783120242813.jpg
+7763,1925,1.0,1,660,10,1.0,55,1,1,1,1,1,1,0,1,Sunnyside,Queens,/photos/entrance/275.jpg
+5705,3975,2.0,2,913,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/8303854757913534769.jpg
+5851,2195,1.0,1,700,5,3.0,51,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/3561474054576888914.jpg
+6574,3200,2.0,1,858,10,3.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/903728460671355222.jpg
+5501,2250,2.0,1,780,5,4.0,92,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/3960115522402636385.jpg
+6979,3400,1.0,1,890,2,5.0,8,0,0,1,1,1,1,0,1,Long Island City,Queens,/photos/flat_plans/1781406609913350568.jpg
+8956,3200,1.0,1,718,3,22.0,2,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/286849152806599686.jpg
+3476,2600,2.0,2,1200,7,2.0,58,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/flat_plans/1702275405764870294.jpg
+3183,2700,2.0,1,720,3,3.0,6,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/8455781628467137029.jpg
+10228,3150,1.0,1,761,2,7.0,4,1,1,0,0,1,0,0,0,Long Island City,Queens,/photos/flat_plans/4213654557721652019.jpg
+3201,2325,0.0,1,418,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/26.jpg
+8126,1999,3.0,1,1000,11,2.0,86,0,0,0,0,0,0,0,0,Glendale,Queens,/photos/flat_plans/8942191927686325215.jpg
+1957,2900,1.0,1,936,9,1.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/763.jpg
+6731,1750,1.0,1,921,2,3.0,68,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/entrance/1310.jpg
+4754,3117,1.0,1,702,3,7.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/1102.jpg
+7449,1695,0.0,1,430,17,2.0,27,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/5783660328806055685.jpg
+3153,1799,2.0,1,800,14,2.0,20,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/5783660328806055685.jpg
+6629,1725,1.0,1,650,4,5.0,50,1,0,0,0,0,0,0,0,Briarwood,Queens,/photos/interior/7889209330868862318.jpg
+2606,3475,2.0,2,964,6,25.0,1,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/4963728572553676737.jpg
+10109,1500,1.0,1,450,7,2.0,76,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/windows/716.jpg
+7970,1900,1.0,1,875,4,4.0,55,0,1,1,0,1,1,1,1,Forest Hills,Queens,/photos/flat_plans/5726297624410132157.jpg
+5284,2200,1.0,1,500,3,8.0,88,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/12.jpg
+5376,1450,1.0,1,525,20,3.0,85,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/buildings/2985589997619368755.jpg
+10025,2895,3.0,1,1100,3,2.0,51,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/3173068470836588131.jpg
+10719,3350,1.0,1,863,3,9.0,20,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/1840809326345457413.jpg
+6499,2625,1.0,1,625,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/196.jpg
+5756,3225,1.0,1,710,6,8.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/4532722612655393312.jpg
+2132,2400,1.0,1,675,17,14.0,27,0,1,0,1,1,0,0,1,Astoria,Queens,/photos/flat_plans/1289929763357695435.jpg
+2608,2380,0.0,1,516,6,26.0,1,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/4259140807510403370.jpg
+6955,1605,0.0,1,486,6,12.0,57,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/6892569796185433065.jpg
+2647,2200,1.0,1,550,16,3.0,9,0,0,0,1,0,0,0,0,Astoria,Queens,/photos/buildings/6398227436467999348.jpg
+10795,1585,0.0,1,660,5,1.0,31,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/entrance/602.jpg
+8282,3750,3.0,2,1000,5,3.0,7,0,0,1,0,0,1,0,0,Astoria,Queens,/photos/flat_plans/1031926706371380117.jpg
+7830,1750,1.0,1,714,6,3.0,13,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/interior/4159785913995705466.jpg
+3633,2000,1.0,1,618,2,3.0,96,0,0,0,0,0,0,0,0,Elmhurst,Queens,/photos/entrance/1180.jpg
+10840,3000,3.0,1,900,8,2.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/660.jpg
+5529,2950,1.0,1,718,9,4.0,2,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/1514115602152697710.jpg
+2498,1750,1.0,1,700,7,4.0,89,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7211204465955143969.jpg
+72,3250,1.0,1,652,1,4.0,0,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/681.jpg
+10068,1900,1.0,1,700,4,1.0,81,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/8789579194194919514.jpg
+6634,2600,2.0,1,1200,6,6.0,89,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/6666412652693972640.jpg
+6834,2200,0.0,1,500,3,6.0,88,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/6795355027079544163.jpg
+8166,2800,1.0,1,854,6,4.0,16,1,0,0,0,0,0,1,0,Astoria,Queens,/photos/buildings/4967223946760586270.jpg
+5457,3600,2.0,1,2000,9,6.0,9,0,0,0,0,1,1,0,0,Astoria,Queens,/photos/interior/4344154108142822029.jpg
+4314,1975,1.0,1,788,2,2.0,65,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/entrance/1061.jpg
+7351,2250,2.0,1,1000,14,5.0,60,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/interior/4986593552354161464.jpg
+9427,2295,1.0,1,758,3,3.0,7,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/8708584821257924235.jpg
+9634,1725,1.0,1,600,13,2.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/7478409757591750392.jpg
+5578,3000,1.0,1,608,1,11.0,8,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/1247473743624290827.jpg
+6401,1850,1.0,1,700,2,4.0,11,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/2959227132691736356.jpg
+9878,2575,1.0,1,750,6,2.0,89,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/644.jpg
+708,8000,3.0,3,1800,2,1.0,16,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/flat_plans/3904214785630274551.jpg
+4558,2175,2.0,2,1000,2,4.0,14,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/flat_plans/2923717030716065147.jpg
+7787,2950,2.0,1,1200,8,5.0,69,1,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/interior/6329225684054064181.jpg
+5378,2485,1.0,1,620,9,5.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7921483163703498998.jpg
+6795,1575,0.0,1,495,6,5.0,56,1,1,1,1,1,1,0,1,Kew Gardens,Queens,/photos/flat_plans/256311652623074331.jpg
+3164,2100,1.0,1,900,5,2.0,77,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/1004979758002026339.jpg
+5758,3175,1.0,1,627,6,13.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/1106348960674668257.jpg
+8578,2050,1.0,1,750,4,5.0,88,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/8229045137897963544.jpg
+5479,1725,1.0,1,550,2,3.0,7,1,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/buildings/8109658661586055898.jpg
+1956,2095,2.0,1,1000,3,6.0,77,0,0,1,0,0,0,0,0,Forest Hills,Queens,/photos/flat_plans/5964244680532660070.jpg
+10868,2300,1.0,1,800,3,2.0,85,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/1293.jpg
+3765,3193,1.0,1,702,3,21.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/572.jpg
+1628,3575,2.0,2,933,43,9.0,8,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/722.jpg
+7379,2900,3.0,2,1200,16,3.0,11,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/2948372353635161223.jpg
+1890,1625,0.0,1,500,4,3.0,70,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/3740836152135715135.jpg
+2533,2795,4.0,2,1000,11,2.0,96,0,0,0,0,0,0,0,0,South Richmond Hill,Queens,/photos/entrance/345.jpg
+6796,1825,1.0,1,773,13,5.0,60,1,0,0,0,0,1,0,0,Forest Hills,Queens,/photos/flat_plans/1453621385575216237.jpg
+5132,1700,1.0,1,650,2,2.0,94,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/1255.jpg
+10310,2450,2.0,2,1183,6,4.0,56,1,1,0,1,1,1,0,1,Kew Gardens,Queens,/photos/flat_plans/7922875196535883133.jpg
+6316,1750,1.0,1,720,16,4.0,53,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/entrance/1203.jpg
+5860,2650,2.0,1,1000,1,1.0,85,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/windows/702.jpg
+8913,2000,2.0,1,1000,10,1.0,85,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/2067430231911854401.jpg
+3252,3000,1.0,1,629,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/792.jpg
+7972,1750,1.0,1,830,3,2.0,80,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/buildings/4268234693418827812.jpg
+9333,2575,1.0,1,610,1,3.0,0,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/605.jpg
+9642,2200,2.0,1,1000,4,3.0,88,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/166275936466716713.jpg
+9879,3450,1.0,1,629,6,3.0,85,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/595.jpg
+8962,1750,1.0,1,740,4,2.0,78,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/4287375745188815078.jpg
+7337,2100,1.0,1,750,7,5.0,64,1,1,1,1,1,1,0,0,Rego Park,Queens,/photos/windows/1106.jpg
+1577,2569,0.0,1,528,3,3.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/1892139455925155717.jpg
+8159,2200,1.0,1,850,4,5.0,56,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/8834137072791400681.jpg
+3454,3125,1.0,1,691,6,6.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/720.jpg
+2983,1399,0.0,1,540,4,2.0,52,0,0,0,0,0,0,0,0,Jamaica Estates,Queens,/photos/buildings/849010702684605064.jpg
+9383,2750,2.0,2,998,1,2.0,55,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/windows/692.jpg
+3353,1450,0.0,1,428,16,4.0,54,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/entrance/757.jpg
+4914,4700,2.0,2,1230,2,1.0,6,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/5089025884655914775.jpg
+4209,1625,0.0,1,500,4,3.0,70,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/5627812961675135340.jpg
+1931,1950,1.0,1,925,12,2.0,60,1,0,1,0,0,0,0,0,Kew Gardens,Queens,/photos/flat_plans/7076387938925763543.jpg
+7633,2350,1.0,1,600,6,3.0,106,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/4113457319564205129.jpg
+5088,1850,1.0,1,1000,4,3.0,75,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/buildings/3646379490952661708.jpg
+8381,1850,1.0,1,875,4,2.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/27621377005161887.jpg
+8414,1900,1.0,1,700,2,9.0,90,0,0,1,0,0,1,0,0,Astoria,Queens,/photos/flat_plans/8290882293726053304.jpg
+3175,2350,1.0,1,936,11,3.0,8,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/612.jpg
+6967,2000,2.0,1,750,10,2.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/381361019626068889.jpg
+3395,2500,2.0,1,700,2,2.0,86,0,0,0,0,0,0,0,0,Woodside,Queens,/photos/buildings/511057379767117385.jpg
+10833,2050,1.0,1,800,5,1.0,77,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/7376335054777806506.jpg
+10129,1650,1.0,1,875,8,5.0,84,0,0,0,0,0,0,0,0,Rockaway All,Queens,/photos/buildings/6186336666201514463.jpg
+11037,1750,1.0,1,850,17,2.0,54,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/windows/354.jpg
+6403,2400,1.0,1,800,9,3.0,96,0,1,1,1,1,1,0,1,Astoria,Queens,/photos/interior/3437320440091548156.jpg
+5755,3125,1.0,1,691,6,5.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/427009292826039944.jpg
+6478,1625,1.0,1,865,5,5.0,54,0,0,0,0,0,0,0,0,Jamaica Hills,Queens,/photos/entrance/1059.jpg
+3256,3964,2.0,2,913,6,17.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/1991121313606607909.jpg
+6621,4000,2.0,2,1009,2,6.0,8,0,0,0,1,1,0,1,1,Long Island City,Queens,/photos/windows/748.jpg
+2872,2350,2.0,1,1005,12,5.0,60,1,0,0,1,0,0,0,0,Forest Hills,Queens,/photos/buildings/4361324917273196574.jpg
+9978,2000,1.0,1,722,10,5.0,2,0,0,0,0,0,0,0,0,North Corona,Queens,/photos/entrance/1085.jpg
+4352,1600,0.0,1,625,4,4.0,53,0,0,0,0,0,0,0,0,Elmhurst,Queens,/photos/windows/937.jpg
+1599,2275,0.0,1,460,6,7.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/7439093093883084015.jpg
+1772,2100,2.0,1,850,4,2.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/interior/7136769466221863678.jpg
+4119,2095,1.0,1,700,2,5.0,53,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/913860014013748454.jpg
+7762,1950,1.0,1,915,6,12.0,56,1,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/flat_plans/4460363506443338448.jpg
+7839,2250,2.0,1,1100,14,2.0,60,0,0,1,1,1,1,1,1,Flushing,Queens,/photos/windows/556.jpg
+4927,1895,1.0,1,680,4,1.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/3488907705152987848.jpg
+7327,2000,2.0,1,1200,8,2.0,86,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/flat_plans/5283473612966914831.jpg
+1606,1975,2.0,1,950,4,2.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/2016275641340070552.jpg
+3710,1700,1.0,1,1000,18,4.0,54,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/buildings/1998482349841217802.jpg
+11159,2000,2.0,1,800,5,2.0,88,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/8977188803178229529.jpg
+2984,1299,0.0,1,340,4,7.0,56,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/entrance/511.jpg
+3699,3300,1.0,1,830,2,11.0,8,0,0,0,0,1,0,0,0,Long Island City,Queens,/photos/buildings/5576849160801523393.jpg
+3260,3125,1.0,1,627,6,12.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/1840809326345457413.jpg
+10227,2650,0.0,1,487,2,11.0,4,1,1,1,1,1,1,0,1,Long Island City,Queens,/photos/interior/1813993623320390446.jpg
+9051,2050,1.0,1,646,1,4.0,1,1,0,0,0,0,0,0,0,Elmhurst,Queens,/photos/flat_plans/2426670423188245343.jpg
+6783,2700,2.0,1,1000,3,2.0,92,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/538017931055596808.jpg
+11301,1971,1.0,1,850,4,5.0,62,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/entrance/655.jpg
+9049,2995,2.0,2,1368,3,3.0,7,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/5161334359369196283.jpg
+6899,1825,1.0,1,697,6,7.0,57,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/entrance/1232.jpg
+5676,3325,1.0,1,859,2,6.0,8,0,1,1,1,1,0,0,1,Long Island City,Queens,/photos/entrance/1153.jpg
+5430,2250,0.0,1,487,10,10.0,6,1,1,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/158.jpg
+2375,2300,2.0,1,1050,6,1.0,91,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/7293946474272172856.jpg
+431,2700,3.0,2,1100,16,2.0,126,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/790881284054419236.jpg
+8691,1250,0.0,1,395,4,2.0,65,0,0,0,0,0,0,0,0,Jamaica Estates,Queens,/photos/buildings/3333042355277639910.jpg
+9919,2950,3.0,2,1413,2,5.0,68,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/windows/1004.jpg
+10239,2995,1.0,1,713,1,4.0,8,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/1166332779954551769.jpg
+7502,1950,1.0,1,480,10,3.0,1,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/5185174810773784663.jpg
+6954,1700,0.0,1,566,6,12.0,57,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/663461487413078218.jpg
+7760,3300,2.0,1,858,10,8.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/195252934257112249.jpg
+8815,3500,1.0,1,1000,9,7.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7776918713779233166.jpg
+5647,2570,1.0,1,625,9,4.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/446.jpg
+2716,2595,1.0,1,841,8,3.0,56,1,0,1,1,1,0,0,0,Forest Hills,Queens,/photos/interior/2247605346458362702.jpg
+1177,2400,1.0,1,720,2,3.0,6,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/1355.jpg
+10254,2600,1.0,1,610,9,6.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/8708960712864228074.jpg
+5649,3225,1.0,1,629,6,14.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/9137274230397572977.jpg
+10725,3700,4.0,2,1000,1,3.0,86,0,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/buildings/1525741004804234902.jpg
+5643,3175,1.0,1,627,6,13.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/5106470159896913318.jpg
+4803,4150,2.0,2,1200,8,3.0,10,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/5101496074804315144.jpg
+3784,2550,2.0,2,900,2,5.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/buildings/5780725323524135132.jpg
+1978,3400,2.0,1,858,10,5.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/7180461136072061946.jpg
+4508,6400,2.0,2,1500,10,14.0,8,1,1,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/412.jpg
+6330,2500,2.0,1,1000,18,2.0,27,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7639609799036238654.jpg
+6581,1585,1.0,1,700,4,1.0,85,0,0,0,0,0,0,0,0,Woodside,Queens,/photos/entrance/1316.jpg
+1342,2600,2.0,2,800,2,1.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/entrance/1209.jpg
+5468,2450,2.0,1,900,2,3.0,88,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/850.jpg
+4511,5057,2.0,2,1259,3,27.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/545.jpg
+7806,2100,1.0,1,650,4,2.0,7,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/2659327694530042054.jpg
+7165,1875,2.0,2,960,10,2.0,17,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/flat_plans/1158809033054359706.jpg
+7785,2650,3.0,1,900,6,2.0,91,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/878.jpg
+7345,2700,1.0,1,690,3,23.0,20,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/3344575224140555851.jpg
+2859,1299,0.0,1,340,4,6.0,56,0,0,0,0,0,0,0,0,Briarwood,Queens,/photos/flat_plans/2854445598679817527.jpg
+3679,1800,2.0,1,920,5,4.0,62,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/interior/2942347529979948816.jpg
+1857,2250,0.0,1,562,1,3.0,6,0,0,1,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/2854445598679817527.jpg
+4510,4707,2.0,2,1259,3,29.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/3639798423103094557.jpg
+8914,1800,2.0,1,1000,10,1.0,85,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/flat_plans/6466816111933383162.jpg
+2385,2000,1.0,1,900,4,3.0,70,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/entrance/361.jpg
+4207,2250,2.0,1,1100,14,3.0,60,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/flat_plans/2747610088709656310.jpg
+6935,3110,1.0,1,680,3,29.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/2330219671752091087.jpg
+4664,2300,1.0,1,950,3,3.0,85,1,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/4593515519940306624.jpg
+5625,2950,1.0,1,757,2,2.0,8,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/flat_plans/8513325983145460870.jpg
+84,1625,0.0,1,500,4,3.0,70,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/4456945205948170156.jpg
+1091,3300,2.0,2,1100,3,9.0,6,0,0,0,0,0,0,0,0,Flushing,Queens,/photos/entrance/1162.jpg
+2129,2800,1.0,1,908,1,22.0,25,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/buildings/7572044145545954042.jpg
+8728,3095,2.0,2,1001,3,5.0,74,1,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/7904097608953860392.jpg
+1671,1950,2.0,1,1000,5,18.0,56,0,0,0,1,0,0,0,0,Kew Gardens,Queens,/photos/interior/4429204300750046058.jpg
+2476,2100,0.0,1,487,10,4.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/4377242150029464644.jpg
+1441,2300,1.0,1,802,10,3.0,7,0,0,0,1,0,0,0,0,Kew Gardens,Queens,/photos/interior/276522078557562379.jpg
+10643,2125,2.0,1,750,8,2.0,87,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/interior/5018774677410395632.jpg
+10464,2895,3.0,1,1100,2,2.0,115,0,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/872.jpg
+6798,1975,1.0,1,720,5,5.0,64,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/4853095426816428759.jpg
+3268,2375,1.0,1,700,4,3.0,9,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/6084785330273937009.jpg
+8932,1695,1.0,1,720,2,2.0,13,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/buildings/6594567763885590091.jpg
+10913,2400,1.0,1,950,0,8.0,50,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/windows/88.jpg
+5477,2299,2.0,1,850,51,5.0,64,0,0,0,1,0,0,0,0,Oakland Gardens,Queens,/photos/entrance/1082.jpg
+8326,1950,1.0,1,900,3,6.0,65,0,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/buildings/917929056962997577.jpg
+7941,2975,2.0,2,1100,1,13.0,55,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/5607335016899748460.jpg
+4890,2600,1.0,1,950,3,6.0,88,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/5868402611019466908.jpg
+7305,2000,1.0,1,663,7,1.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/1197.jpg
+538,3950,2.0,2,1025,1,2.0,6,0,0,0,1,1,0,0,0,Long Island City,Queens,/photos/windows/489.jpg
+6347,1650,0.0,1,550,5,3.0,52,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/7041808267617138148.jpg
+5603,1995,2.0,1,800,7,3.0,22,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/entrance/1300.jpg
+10020,1550,1.0,1,700,4,4.0,21,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/7077167893605606333.jpg
+7689,1900,1.0,1,600,1,2.0,0,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/buildings/1597084639548943140.jpg
+6713,2150,1.0,1,800,3,4.0,13,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/flat_plans/1889074256015954085.jpg
+2663,2200,1.0,1,700,16,3.0,9,0,0,0,1,0,0,0,0,Astoria,Queens,/photos/flat_plans/5621697547346950309.jpg
+5388,3500,4.0,3,1800,5,4.0,50,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/entrance/147.jpg
+5702,3275,1.0,1,630,6,15.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/922.jpg
+8683,2600,2.0,1,1000,4,3.0,91,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/1359.jpg
+3966,2500,3.0,1,900,15,2.0,96,0,0,0,0,0,0,0,0,Jackson Heights,Queens,/photos/flat_plans/92613597874052915.jpg
+9505,1750,1.0,1,850,7,2.0,61,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/windows/241.jpg
+8192,2700,2.0,1,800,8,1.0,86,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/341.jpg
+10540,1585,1.0,1,750,2,2.0,90,0,0,0,0,0,0,0,0,Woodside,Queens,/photos/interior/213663525832160809.jpg
+10133,1425,0.0,1,540,4,5.0,81,0,1,0,0,0,1,1,0,Flushing,Queens,/photos/interior/3570279291448890312.jpg
+4512,3229,1.0,1,702,3,20.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/1028.jpg
+70,2800,1.0,1,665,1,7.0,0,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7415597464038067787.jpg
+6304,2545,1.0,1,655,9,3.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/buildings/5455512006842498442.jpg
+8934,2550,2.0,1,950,2,3.0,88,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/windows/1305.jpg
+2358,4750,2.0,2,1120,3,8.0,16,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/windows/1078.jpg
+10618,2000,1.0,1,700,3,1.0,8,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/4068827581480356056.jpg
+6328,1999,2.0,1,1000,1,1.0,65,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/buildings/5227526131769628491.jpg
+9562,1895,2.0,2,700,8,3.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/7187457409923458850.jpg
+2278,1650,0.0,1,532,3,1.0,66,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/3669683705160182263.jpg
+2143,2050,1.0,1,800,4,1.0,56,0,0,0,1,1,0,0,0,Astoria,Queens,/photos/buildings/8555308363368137013.jpg
+6064,4350,2.0,2,1134,2,11.0,4,1,1,0,1,1,1,0,1,Long Island City,Queens,/photos/interior/1489912847676031725.jpg
+9581,1345,0.0,1,1000,2,2.0,51,0,0,0,0,0,0,0,0,Elmhurst,Queens,/photos/buildings/5338846740046068272.jpg
+3232,5125,3.0,2,1023,6,15.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/interior/1128697290412230451.jpg
+2133,2900,1.0,1,914,1,5.0,25,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/interior/6186292589788395729.jpg
+6770,1895,2.0,2,700,8,3.0,85,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/6342611930892124423.jpg
+1286,3700,3.0,2,1100,2,4.0,86,1,0,0,0,0,0,0,0,Ridgewood,Queens,/photos/entrance/404.jpg
+3504,1845,0.0,1,504,1,10.0,55,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/3415291560371481712.jpg
+4809,3000,3.0,1,1200,16,1.0,75,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/177.jpg
+5812,1800,1.0,1,700,7,9.0,89,0,0,0,0,0,0,0,0,Kew Gardens,Queens,/photos/windows/382.jpg
+8752,1800,1.0,1,950,4,5.0,75,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/buildings/8870716143328713947.jpg
+6575,3300,2.0,1,858,10,7.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/2789418616042163912.jpg
+8319,1950,1.0,1,740,4,6.0,80,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/windows/402.jpg
+9309,3700,2.0,2,1275,1,8.0,11,0,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/flat_plans/7905101846478142430.jpg
+4973,2350,1.0,1,882,11,3.0,8,0,1,0,1,1,0,0,1,Astoria,Queens,/photos/flat_plans/7224799777827568698.jpg
+6804,1795,1.0,1,550,12,6.0,49,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/entrance/805.jpg
+10897,1875,2.0,1,1050,8,6.0,67,0,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/1063430859590973893.jpg
+5884,3050,1.0,1,700,5,3.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/1851286446815610407.jpg
+6572,2625,1.0,1,673,10,13.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/interior/8820768848429667237.jpg
+8324,1600,1.0,1,820,2,4.0,85,0,0,1,1,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/8199801474199261691.jpg
+9466,2950,2.0,2,761,17,16.0,27,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/flat_plans/8135271120767416747.jpg
+3251,5300,3.0,2,1023,6,20.0,0,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/buildings/9143502813421980491.jpg
+1845,3500,1.0,1,753,1,3.0,85,1,0,0,0,0,0,0,0,Long Island City,Queens,/photos/entrance/67.jpg
+7468,2350,2.0,1,850,10,3.0,85,0,0,0,0,0,0,0,0,Sunnyside,Queens,/photos/flat_plans/7103760220372819695.jpg
+5587,4850,2.0,2,1140,2,9.0,4,1,0,1,0,1,1,0,1,Long Island City,Queens,/photos/buildings/4332439497777997017.jpg
+471,2650,1.0,1,650,6,21.0,1,1,0,0,0,0,0,0,0,Rego Park,Queens,/photos/flat_plans/6441373764186762333.jpg
+9478,2200,3.0,1,1000,2,3.0,88,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/windows/1050.jpg
+6760,3750,2.0,0,1047,10,13.0,6,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/997.jpg
+1614,2950,2.0,2,1038,10,5.0,5,0,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/777.jpg
+11245,2200,1.0,1,850,4,3.0,62,1,0,0,0,0,0,0,0,Forest Hills,Queens,/photos/entrance/59.jpg
+6070,2250,2.0,1,1100,14,5.0,60,1,0,0,0,0,0,0,0,Flushing,Queens,/photos/flat_plans/1954482510231784775.jpg
+1964,2650,1.0,1,686,9,4.0,3,1,0,0,0,0,0,0,0,Astoria,Queens,/photos/entrance/142.jpg

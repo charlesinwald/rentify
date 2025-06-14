@@ -2,6 +2,7 @@
 
 # Base URL for the API
 BASE_URL="http://localhost:8000"
+WS_URL="ws://localhost:8000"
 
 # Colors for output
 GREEN='\033[0;32m'
@@ -43,6 +44,44 @@ if [ -z "$TOKEN" ]; then
     echo -e "${RED}Failed to get JWT token. Cannot proceed with authenticated tests.${NC}"
     exit 1
 fi
+
+# Test WebSocket chat
+echo "Testing WebSocket chat..."
+# Create a temporary Python script for WebSocket testing
+cat > test_websocket.py << 'EOF'
+import asyncio
+import websockets
+import json
+import sys
+
+async def test_chat():
+    uri = f"ws://localhost:8000/ws/chat?token={sys.argv[1]}"
+    async with websockets.connect(uri) as websocket:
+        # Send a test message
+        message = {"message": "Hello, this is a test message!"}
+        await websocket.send(json.dumps(message))
+        
+        # Wait for the message to be broadcast back
+        response = await websocket.recv()
+        print(f"Received: {response}")
+        
+        # Send another message
+        message = {"message": "This is another test message!"}
+        await websocket.send(json.dumps(message))
+        
+        # Wait for the message to be broadcast back
+        response = await websocket.recv()
+        print(f"Received: {response}")
+
+asyncio.run(test_chat())
+EOF
+
+# Run the WebSocket test
+python3 test_websocket.py "$TOKEN"
+print_result $? "WebSocket chat"
+
+# Clean up the temporary script
+rm test_websocket.py
 
 # Test natural language search with authentication
 echo "Testing natural language search with authentication..."
@@ -97,6 +136,30 @@ curl -s -X GET "${BASE_URL}/search?borough=Manhattan&min_bedrooms=2&max_price=50
     -H "Authorization: Bearer ${TOKEN}" > /dev/null
 print_result $? "Search with filters"
 
+# Test search with filters and verify photo URLs
+echo "Testing search with filters and photo URLs..."
+SEARCH_RESPONSE=$(curl -s -X GET "${BASE_URL}/search?borough=Manhattan&min_bedrooms=2&max_price=5000" \
+    -H "Authorization: Bearer ${TOKEN}")
+
+# Extract the first rental's photo URL
+PHOTO_URL=$(echo $SEARCH_RESPONSE | jq -r '.results[0].photo_url')
+
+if [ -n "$PHOTO_URL" ] && [ "$PHOTO_URL" != "null" ]; then
+    echo "Testing photo URL: $PHOTO_URL"
+    # Try to access the photo
+    PHOTO_RESPONSE=$(curl -s -I "${BASE_URL}${PHOTO_URL}")
+    if echo "$PHOTO_RESPONSE" | grep -q "200 OK"; then
+        print_result 0 "Photo URL access"
+        echo -e "${GREEN}Successfully accessed photo${NC}"
+    else
+        print_result 1 "Photo URL access"
+        echo -e "${RED}Failed to access photo${NC}"
+    fi
+else
+    print_result 1 "Photo URL presence"
+    echo -e "${RED}No photo URL found in search results${NC}"
+fi
+
 # Test neighborhood endpoints
 echo "Testing neighborhood endpoints..."
 
@@ -111,5 +174,34 @@ echo "Getting neighborhoods by borough..."
 curl -s -X GET "${BASE_URL}/neighborhoods/Manhattan" \
     -H "Authorization: Bearer ${TOKEN}" > /dev/null
 print_result $? "Get neighborhoods by borough"
+
+# Test image generation endpoint
+echo "Testing image generation endpoint..."
+
+# First, get a valid rental ID from search results
+SEARCH_RESPONSE=$(curl -s -X GET "${BASE_URL}/search?borough=Manhattan&min_bedrooms=2&max_price=5000" \
+    -H "Authorization: Bearer ${TOKEN}")
+
+# Extract the first rental ID from the search results
+RENTAL_ID=$(echo $SEARCH_RESPONSE | jq -r '.results[0].rental_id')
+
+if [ -z "$RENTAL_ID" ] || [ "$RENTAL_ID" = "null" ]; then
+    echo -e "${RED}No rental ID found in search results. Skipping image generation test...${NC}"
+else
+    echo "Using rental ID: $RENTAL_ID"
+    # Get the image and save it directly
+    curl -s -X GET "${BASE_URL}/rentals/${RENTAL_ID}/image" \
+        -H "Authorization: Bearer ${TOKEN}" \
+        --output "rental_${RENTAL_ID}.png"
+    
+    # Check if the file was created and has content
+    if [ -s "rental_${RENTAL_ID}.png" ]; then
+        print_result 0 "Image generation"
+        echo -e "${GREEN}Image saved as rental_${RENTAL_ID}.png${NC}"
+    else
+        print_result 1 "Image generation"
+        echo -e "${RED}Failed to save image${NC}"
+    fi
+fi
 
 echo -e "\n${GREEN}All tests completed!${NC}" 

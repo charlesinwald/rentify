@@ -7,7 +7,7 @@ RUN apt-get update && apt-get install -y \
     postgresql-client \
     && rm -rf /var/lib/apt/lists/*
 
-# Install wait-for-it script
+# Add wait-for-it script
 ADD https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh /wait-for-it.sh
 RUN chmod +x /wait-for-it.sh
 
@@ -18,8 +18,17 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the application
 COPY . .
 
-# Create necessary directories
+# Create alembic versions directory
 RUN mkdir -p alembic/versions
 
-# Run database migrations and start the application
-CMD ["/bin/bash", "-c", "/wait-for-it.sh $POSTGRES_HOST:$POSTGRES_PORT -- alembic upgrade head && uvicorn main:app --host 0.0.0.0 --port 8000"] 
+# Create photos directory if it doesn't exist
+RUN mkdir -p photos
+
+# Set environment variables
+ENV PYTHONPATH=/app
+
+# Expose the port
+EXPOSE 8000
+
+# Command to run the application
+CMD ["/wait-for-it.sh", "db:5432", "--", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"] 

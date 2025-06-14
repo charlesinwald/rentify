@@ -25,6 +25,20 @@ class Token(BaseModel):
 class TokenData(BaseModel):
     email: Optional[str] = None
 
+# Chat schemas
+class ChatMessage(BaseModel):
+    message: str
+    sender_email: str
+    timestamp: datetime = datetime.now()
+
+    class Config:
+        json_encoders = {
+            datetime: lambda v: v.isoformat()
+        }
+
+class ChatMessageCreate(BaseModel):
+    message: str
+
 # Rental schemas
 class RentalBase(BaseModel):
     rental_id: str
@@ -45,6 +59,10 @@ class RentalBase(BaseModel):
     min_to_subway: int
     neighborhood: str
     borough: str
+    photo_url: Optional[str] = None
+
+    class Config:
+        from_attributes = True
 
 class RentalCreate(RentalBase):
     pass
@@ -98,6 +116,7 @@ class NaturalLanguageSearch(BaseModel):
     query: str
     page: int = 1
     page_size: int = 10
+    photo_url: Optional[str] = None
 
 # Response schemas
 class PaginatedResponse(BaseModel):
