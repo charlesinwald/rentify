@@ -1,95 +1,107 @@
 # Rentify API
 
-A FastAPI backend for searching rental listings across Manhattan, Brooklyn, and Queens.
+A FastAPI application for searching rental listings in New York City with natural language processing capabilities.
 
 ## Features
 
-- Search rentals with multiple filters
-- Filter by price, bedrooms, bathrooms, size, amenities, and more
-- Get list of available neighborhoods and boroughs
-- Dockerized for easy deployment
+- Natural language search for apartments using Google's Gemini API
+- PostgreSQL database with SQLAlchemy ORM
+- User authentication with JWT tokens
+- Favorites system for saving preferred listings
+- Paginated search results
+- Filter by various criteria (price, bedrooms, amenities, etc.)
+- Neighborhood and borough-based search
 
-## Getting Started
+## Prerequisites
 
-### Prerequisites
+- Python 3.8+
+- PostgreSQL
+- Google Gemini API key
 
-- Docker
-- Docker Compose (optional)
+## Environment Variables
 
-### Running with Docker
+Create a `.env` file in the root directory with the following variables:
 
-1. Build the Docker image:
+```env
+GEMINI_KEY=your_gemini_api_key_here
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=rentify
+JWT_SECRET_KEY=your_jwt_secret_key_here
+```
+
+## Setup
+
+1. Create a virtual environment:
 
 ```bash
-docker build -t rentify-api .
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-2. Run the container:
+2. Install dependencies:
 
 ```bash
-docker run -p 8000:8000 rentify-api
+pip install -r requirements.txt
 ```
 
-The API will be available at `http://localhost:8000`
+3. Create PostgreSQL database:
 
-### API Endpoints
-
-#### Search Rentals
-
-```
-GET /search
+```bash
+createdb rentify
 ```
 
-Query Parameters:
+4. Run database migrations:
 
-- `min_rent`: Minimum rent
-- `max_rent`: Maximum rent
-- `min_bedrooms`: Minimum number of bedrooms
-- `max_bedrooms`: Maximum number of bedrooms
-- `min_bathrooms`: Minimum number of bathrooms
-- `max_bathrooms`: Maximum number of bathrooms
-- `min_size_sqft`: Minimum square footage
-- `max_size_sqft`: Maximum square footage
-- `min_to_subway`: Minimum minutes to subway
-- `max_to_subway`: Maximum minutes to subway
-- `borough`: Borough name
-- `neighborhood`: Neighborhood name
-- `has_doorman`: Boolean
-- `has_elevator`: Boolean
-- `has_dishwasher`: Boolean
-- `has_washer_dryer`: Boolean
-- `has_gym`: Boolean
-- `has_roofdeck`: Boolean
-- `has_patio`: Boolean
-- `no_fee`: Boolean
-
-#### Get Neighborhoods
-
-```
-GET /neighborhoods
+```bash
+alembic upgrade head
 ```
 
-Returns a list of all available neighborhoods.
+5. Start the development server:
 
-#### Get Boroughs
-
-```
-GET /boroughs
+```bash
+./dev.sh
 ```
 
-Returns a list of all available boroughs.
+## API Endpoints
 
-### Example Usage
+### Authentication
 
-Search for apartments in Manhattan with 1-2 bedrooms, rent between $2000-$4000:
+- `POST /token` - Get JWT token for authentication
+- `POST /users/` - Create new user account
 
+### Search
+
+- `POST /search/natural` - Natural language search
+- `GET /search` - Advanced search with filters
+- `GET /neighborhoods/` - List all neighborhoods
+- `GET /neighborhoods/{borough}` - List neighborhoods by borough
+
+### Favorites
+
+- `POST /favorites/` - Add rental to favorites
+- `GET /favorites/` - Get user's favorite rentals
+- `DELETE /favorites/{rental_id}` - Remove rental from favorites
+
+## Testing
+
+Run the test script to verify API functionality:
+
+```bash
+./test_api.sh
 ```
-GET /search?borough=Manhattan&min_bedrooms=1&max_bedrooms=2&min_rent=2000&max_rent=4000
+
+## Docker
+
+Build and run with Docker:
+
+```bash
+docker build -t rentify .
+docker run -p 8000:8000 rentify
 ```
 
-## API Documentation
+## License
 
-Once the server is running, you can access the interactive API documentation at:
-
-- Swagger UI: `http://localhost:8000/docs`
-- ReDoc: `http://localhost:8000/redoc`
+MIT

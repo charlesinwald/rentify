@@ -1,18 +1,37 @@
-from fastapi import FastAPI, Query, HTTPException
+from fastapi import FastAPI, Query, HTTPException, Depends, status
 from fastapi.middleware.cors import CORSMiddleware
-import pandas as pd
+from fastapi.security import OAuth2PasswordRequestForm
+from sqlalchemy.orm import Session
 from typing import Optional, List, Dict
 from pydantic import BaseModel
+import pandas as pd
+from datetime import timedelta
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 import json
+
+from database import get_db
+from models import User, Rental, Favorite
+from schemas import (
+    UserCreate, User as UserSchema,
+    Token, Rental as RentalSchema,
+    RentalSearch, NaturalLanguageSearch,
+    Favorite as FavoriteSchema, FavoriteCreate,
+    PaginatedResponse
+)
+from auth import (
+    verify_password, get_password_hash,
+    create_access_token, get_current_active_user,
+    ACCESS_TOKEN_EXPIRE_MINUTES
+)
 
 # Load environment variables
 load_dotenv()
 
 # Configure Gemini API
 genai.configure(api_key=os.getenv('GEMINI_KEY'))
+model = genai.GenerativeModel('gemini-2.0-flash')
 
 app = FastAPI(title="Rentify API", description="API for searching rental listings")
 
@@ -93,7 +112,6 @@ def parse_natural_language_query(query: str) -> Dict:
     """
 
     try:
-        model = genai.GenerativeModel('gemini-2.0-flash')
         response = model.generate_content(prompt)
         # Extract the text content from the response
         response_text = response.text.strip()
@@ -108,83 +126,24 @@ def parse_natural_language_query(query: str) -> Dict:
 async def root():
     return {"message": "Welcome to Rentify API"}
 
-@app.post("/search/natural")
-async def natural_language_search(search: NaturalLanguageSearch):
+@app.post("/search/natural", response_model=PaginatedResponse)
+async def natural_language_search(
+    search: NaturalLanguageSearch,
+    db: Session = Depends(get_db)
+):
     # Parse the natural language query into structured filters
     filters = parse_natural_language_query(search.query)
     
-    # Start with all data
-    filtered_df = df.copy()
+    # Create a RentalSearch object from the parsed filters
+    rental_search = RentalSearch(**filters)
     
-    # Apply filters
-    if filters.get('min_rent') is not None:
-        filtered_df = filtered_df[filtered_df['rent'] >= filters['min_rent']]
-    if filters.get('max_rent') is not None:
-        filtered_df = filtered_df[filtered_df['rent'] <= filters['max_rent']]
-    if filters.get('min_bedrooms') is not None:
-        filtered_df = filtered_df[filtered_df['bedrooms'] >= filters['min_bedrooms']]
-    if filters.get('max_bedrooms') is not None:
-        filtered_df = filtered_df[filtered_df['bedrooms'] <= filters['max_bedrooms']]
-    if filters.get('min_bathrooms') is not None:
-        filtered_df = filtered_df[filtered_df['bathrooms'] >= filters['min_bathrooms']]
-    if filters.get('max_bathrooms') is not None:
-        filtered_df = filtered_df[filtered_df['bathrooms'] <= filters['max_bathrooms']]
-    if filters.get('min_size_sqft') is not None:
-        filtered_df = filtered_df[filtered_df['size_sqft'] >= filters['min_size_sqft']]
-    if filters.get('max_size_sqft') is not None:
-        filtered_df = filtered_df[filtered_df['size_sqft'] <= filters['max_size_sqft']]
-    if filters.get('min_to_subway') is not None:
-        filtered_df = filtered_df[filtered_df['min_to_subway'] >= filters['min_to_subway']]
-    if filters.get('max_to_subway') is not None:
-        filtered_df = filtered_df[filtered_df['min_to_subway'] <= filters['max_to_subway']]
-    if filters.get('borough'):
-        filtered_df = filtered_df[filtered_df['borough'] == filters['borough']]
-    if filters.get('neighborhood'):
-        filtered_df = filtered_df[filtered_df['neighborhood'] == filters['neighborhood']]
-    if filters.get('has_doorman') is not None:
-        filtered_df = filtered_df[filtered_df['has_doorman'] == filters['has_doorman']]
-    if filters.get('has_elevator') is not None:
-        filtered_df = filtered_df[filtered_df['has_elevator'] == filters['has_elevator']]
-    if filters.get('has_dishwasher') is not None:
-        filtered_df = filtered_df[filtered_df['has_dishwasher'] == filters['has_dishwasher']]
-    if filters.get('has_washer_dryer') is not None:
-        filtered_df = filtered_df[filtered_df['has_washer_dryer'] == filters['has_washer_dryer']]
-    if filters.get('has_gym') is not None:
-        filtered_df = filtered_df[filtered_df['has_gym'] == filters['has_gym']]
-    if filters.get('has_roofdeck') is not None:
-        filtered_df = filtered_df[filtered_df['has_roofdeck'] == filters['has_roofdeck']]
-    if filters.get('has_patio') is not None:
-        filtered_df = filtered_df[filtered_df['has_patio'] == filters['has_patio']]
-    if filters.get('no_fee') is not None:
-        filtered_df = filtered_df[filtered_df['no_fee'] == filters['no_fee']]
-
-    # Calculate pagination
-    total_items = len(filtered_df)
-    total_pages = (total_items + search.page_size - 1) // search.page_size
-    
-    # Adjust page if it's out of range
-    if search.page > total_pages:
-        search.page = total_pages if total_pages > 0 else 1
-    
-    # Get the slice for the current page
-    start_idx = (search.page - 1) * search.page_size
-    end_idx = start_idx + search.page_size
-    page_df = filtered_df.iloc[start_idx:end_idx]
-
-    # Convert to list of dictionaries
-    results = page_df.to_dict(orient='records')
-    
-    return {
-        "query": search.query,
-        "parsed_filters": filters,
-        "total_items": total_items,
-        "total_pages": total_pages,
-        "current_page": search.page,
-        "page_size": search.page_size,
-        "has_next": search.page < total_pages,
-        "has_previous": search.page > 1,
-        "results": results
-    }
+    # Use the existing search endpoint with the parsed filters
+    return search_rentals(
+        search=rental_search,
+        page=search.page,
+        page_size=search.page_size,
+        db=db
+    )
 
 @app.get("/search")
 async def search_rentals(
@@ -209,7 +168,8 @@ async def search_rentals(
     has_patio: Optional[bool] = None,
     no_fee: Optional[bool] = None,
     page: int = Query(1, ge=1, description="Page number"),
-    page_size: int = Query(10, ge=1, le=100, description="Number of items per page")
+    page_size: int = Query(10, ge=1, le=100, description="Number of items per page"),
+    db: Session = Depends(get_db)
 ):
     # Start with all data
     filtered_df = df.copy()
@@ -272,15 +232,15 @@ async def search_rentals(
     # Convert to list of dictionaries
     results = page_df.to_dict(orient='records')
     
-    return {
-        "total_items": total_items,
-        "total_pages": total_pages,
-        "current_page": page,
-        "page_size": page_size,
-        "has_next": page < total_pages,
-        "has_previous": page > 1,
-        "results": results
-    }
+    return PaginatedResponse(
+        total_items=total_items,
+        total_pages=total_pages,
+        current_page=page,
+        page_size=page_size,
+        has_next=page < total_pages,
+        has_previous=page > 1,
+        results=results
+    )
 
 @app.get("/neighborhoods")
 async def get_neighborhoods():
@@ -288,4 +248,101 @@ async def get_neighborhoods():
 
 @app.get("/boroughs")
 async def get_boroughs():
-    return {"boroughs": sorted(df['borough'].unique().tolist())} 
+    return {"boroughs": sorted(df['borough'].unique().tolist())}
+
+# Authentication endpoints
+@app.post("/token", response_model=Token)
+async def login_for_access_token(
+    form_data: OAuth2PasswordRequestForm = Depends(),
+    db: Session = Depends(get_db)
+):
+    user = db.query(User).filter(User.email == form_data.username).first()
+    if not user or not verify_password(form_data.password, user.hashed_password):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Incorrect email or password",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.email}, expires_delta=access_token_expires
+    )
+    return {"access_token": access_token, "token_type": "bearer"}
+
+@app.post("/users/", response_model=UserSchema)
+def create_user(user: UserCreate, db: Session = Depends(get_db)):
+    db_user = db.query(User).filter(User.email == user.email).first()
+    if db_user:
+        raise HTTPException(status_code=400, detail="Email already registered")
+    hashed_password = get_password_hash(user.password)
+    db_user = User(email=user.email, hashed_password=hashed_password)
+    db.add(db_user)
+    db.commit()
+    db.refresh(db_user)
+    return db_user
+
+# Favorites endpoints
+@app.post("/favorites/", response_model=FavoriteSchema)
+def create_favorite(
+    favorite: FavoriteCreate,
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db)
+):
+    # Check if rental exists
+    rental = db.query(Rental).filter(Rental.id == favorite.rental_id).first()
+    if not rental:
+        raise HTTPException(status_code=404, detail="Rental not found")
+    
+    # Check if favorite already exists
+    existing_favorite = db.query(Favorite).filter(
+        Favorite.user_id == current_user.id,
+        Favorite.rental_id == favorite.rental_id
+    ).first()
+    if existing_favorite:
+        raise HTTPException(status_code=400, detail="Rental already in favorites")
+    
+    # Create new favorite
+    db_favorite = Favorite(
+        user_id=current_user.id,
+        rental_id=favorite.rental_id
+    )
+    db.add(db_favorite)
+    db.commit()
+    db.refresh(db_favorite)
+    return db_favorite
+
+@app.get("/favorites/", response_model=List[RentalSchema])
+def get_favorites(
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db)
+):
+    favorites = db.query(Favorite).filter(Favorite.user_id == current_user.id).all()
+    rental_ids = [f.rental_id for f in favorites]
+    rentals = db.query(Rental).filter(Rental.id.in_(rental_ids)).all()
+    return rentals
+
+@app.delete("/favorites/{rental_id}")
+def delete_favorite(
+    rental_id: int,
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db)
+):
+    favorite = db.query(Favorite).filter(
+        Favorite.user_id == current_user.id,
+        Favorite.rental_id == rental_id
+    ).first()
+    if not favorite:
+        raise HTTPException(status_code=404, detail="Favorite not found")
+    
+    db.delete(favorite)
+    db.commit()
+    return {"message": "Favorite removed successfully"}
+
+@app.get("/neighborhoods/")
+def get_neighborhoods():
+    return sorted(df['neighborhood'].unique().tolist())
+
+@app.get("/neighborhoods/{borough}")
+def get_neighborhoods_by_borough(borough: str):
+    borough_data = df[df['borough'].str.lower() == borough.lower()]
+    return sorted(borough_data['neighborhood'].unique().tolist()) 

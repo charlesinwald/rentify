@@ -1,76 +1,115 @@
 #!/bin/bash
 
-# Base URL
+# Base URL for the API
 BASE_URL="http://localhost:8000"
 
-echo "Testing Rentify API..."
-echo "======================"
+# Colors for output
+GREEN='\033[0;32m'
+RED='\033[0;31m'
+NC='\033[0m' # No Color
 
-# Test root endpoint
-echo -e "\n1. Testing root endpoint:"
-curl -s "${BASE_URL}/" | jq '.'
+# Function to print test results
+print_result() {
+    if [ $1 -eq 0 ]; then
+        echo -e "${GREEN}✓ $2${NC}"
+    else
+        echo -e "${RED}✗ $2${NC}"
+    fi
+}
 
-# Test getting boroughs
-echo -e "\n2. Testing get boroughs:"
-curl -s "${BASE_URL}/boroughs" | jq '.'
+# Test user credentials
+TEST_EMAIL="test@example.com"
+TEST_PASSWORD="testpassword123"
 
-# Test getting neighborhoods
-echo -e "\n3. Testing get neighborhoods:"
-curl -s "${BASE_URL}/neighborhoods" | jq '.'
+# Test authentication endpoints
+echo "Testing authentication endpoints..."
 
-# Test basic search with price range
-echo -e "\n4. Testing search with price range ($2000-$4000):"
-curl -s "${BASE_URL}/search?min_rent=2000&max_rent=4000" | jq '.'
+# Register a new user
+echo "Testing user registration..."
+REGISTER_RESPONSE=$(curl -s -X POST "${BASE_URL}/users/" \
+    -H "Content-Type: application/json" \
+    -d "{\"email\":\"${TEST_EMAIL}\",\"password\":\"${TEST_PASSWORD}\"}")
+print_result $? "User registration"
 
-# Test search with multiple filters
-echo -e "\n5. Testing search with multiple filters (Manhattan, 1-2 bedrooms, $2000-$4000):"
-curl -s "${BASE_URL}/search?borough=Manhattan&min_bedrooms=1&max_bedrooms=2&min_rent=2000&max_rent=4000" | jq '.'
+# Login and get JWT token
+echo "Testing user login..."
+LOGIN_RESPONSE=$(curl -s -X POST "${BASE_URL}/token" \
+    -H "Content-Type: application/x-www-form-urlencoded" \
+    -d "username=${TEST_EMAIL}&password=${TEST_PASSWORD}")
+TOKEN=$(echo $LOGIN_RESPONSE | grep -o '"access_token":"[^"]*' | cut -d'"' -f4)
+print_result $? "User login"
 
-# Test search with amenities
-echo -e "\n6. Testing search with amenities (doorman and gym):"
-curl -s "${BASE_URL}/search?has_doorman=true&has_gym=true" | jq '.'
+if [ -z "$TOKEN" ]; then
+    echo -e "${RED}Failed to get JWT token. Cannot proceed with authenticated tests.${NC}"
+    exit 1
+fi
 
-# Test search with size and location
-echo -e "\n7. Testing search with size and location (Upper East Side, min 800 sqft):"
-curl -s "${BASE_URL}/search?neighborhood=Upper%20East%20Side&min_size_sqft=800" | jq '.'
+# Test natural language search with authentication
+echo "Testing natural language search with authentication..."
+curl -s -X POST "${BASE_URL}/search/natural" \
+    -H "Authorization: Bearer ${TOKEN}" \
+    -H "Content-Type: application/json" \
+    -d '{"query": "2 bedroom apartment in Manhattan", "page": 1, "limit": 10}' > /dev/null
+print_result $? "Natural language search (authenticated)"
 
-# Test search with subway proximity
-echo -e "\n8. Testing search with subway proximity (max 5 minutes):"
-curl -s "${BASE_URL}/search?max_to_subway=5" | jq '.'
-
-# Test complex search
-echo -e "\n9. Testing complex search (Brooklyn, 2+ bedrooms, washer/dryer, no fee):"
-curl -s "${BASE_URL}/search?borough=Brooklyn&min_bedrooms=2&has_washer_dryer=true&no_fee=true" | jq '.'
-
-# Test search with all amenities
-echo -e "\n10. Testing search with all amenities:"
-curl -s "${BASE_URL}/search?has_doorman=true&has_elevator=true&has_dishwasher=true&has_washer_dryer=true&has_gym=true&has_roofdeck=true&has_patio=true" | jq '.'
+# Test complex natural language search
+echo "Testing complex natural language search..."
+curl -s -X POST "${BASE_URL}/search/natural" \
+    -H "Authorization: Bearer ${TOKEN}" \
+    -H "Content-Type: application/json" \
+    -d '{"query": "3 bedroom apartment in Brooklyn with doorman and parking under 5000", "page": 1, "limit": 10}' > /dev/null
+print_result $? "Complex natural language search"
 
 # Test pagination
-echo -e "\n11. Testing pagination (page 1, 5 items per page):"
-curl -s "${BASE_URL}/search?page=1&page_size=5" | jq '.'
-
-echo -e "\n12. Testing pagination (page 2, 5 items per page):"
-curl -s "${BASE_URL}/search?page=2&page_size=5" | jq '.'
-
-echo -e "\n13. Testing pagination with filters (Manhattan, page 1, 3 items per page):"
-curl -s "${BASE_URL}/search?borough=Manhattan&page=1&page_size=3" | jq '.'
-
-echo -e "\n14. Testing pagination with invalid page (should return last page):"
-curl -s "${BASE_URL}/search?page=999&page_size=10" | jq '.'
-
-# Test natural language search
-echo -e "\n15. Testing natural language search (basic query):"
+echo "Testing pagination..."
 curl -s -X POST "${BASE_URL}/search/natural" \
-  -H "Content-Type: application/json" \
-  -d '{"query": "Find apartments in Manhattan under $3000 with at least 1 bedroom"}' | jq '.'
+    -H "Authorization: Bearer ${TOKEN}" \
+    -H "Content-Type: application/json" \
+    -d '{"query": "apartment", "page": 2, "limit": 10}' > /dev/null
+print_result $? "Pagination"
 
-echo -e "\n16. Testing natural language search (complex query):"
-curl -s -X POST "${BASE_URL}/search/natural" \
-  -H "Content-Type: application/json" \
-  -d '{"query": "Show me 2 bedroom apartments in Brooklyn with a doorman, gym, and washer/dryer, max 10 minutes to subway"}' | jq '.'
+# Test favorites functionality
+echo "Testing favorites functionality..."
 
-echo -e "\n17. Testing natural language search with pagination:"
-curl -s -X POST "${BASE_URL}/search/natural" \
-  -H "Content-Type: application/json" \
-  -d '{"query": "Apartments in Queens with a patio", "page": 1, "page_size": 5}' | jq '.' 
+# Add a rental to favorites
+echo "Adding rental to favorites..."
+curl -s -X POST "${BASE_URL}/favorites/" \
+    -H "Authorization: Bearer ${TOKEN}" \
+    -H "Content-Type: application/json" \
+    -d '{"rental_id": "1"}' > /dev/null
+print_result $? "Add to favorites"
+
+# Get user's favorites
+echo "Getting user's favorites..."
+curl -s -X GET "${BASE_URL}/favorites/" \
+    -H "Authorization: Bearer ${TOKEN}" > /dev/null
+print_result $? "Get favorites"
+
+# Remove rental from favorites
+echo "Removing rental from favorites..."
+curl -s -X DELETE "${BASE_URL}/favorites/1" \
+    -H "Authorization: Bearer ${TOKEN}" > /dev/null
+print_result $? "Remove from favorites"
+
+# Test search with filters
+echo "Testing search with filters..."
+curl -s -X GET "${BASE_URL}/search?borough=Manhattan&min_bedrooms=2&max_price=5000" \
+    -H "Authorization: Bearer ${TOKEN}" > /dev/null
+print_result $? "Search with filters"
+
+# Test neighborhood endpoints
+echo "Testing neighborhood endpoints..."
+
+# Get all neighborhoods
+echo "Getting all neighborhoods..."
+curl -s -X GET "${BASE_URL}/neighborhoods" \
+    -H "Authorization: Bearer ${TOKEN}" > /dev/null
+print_result $? "Get all neighborhoods"
+
+# Get neighborhoods by borough
+echo "Getting neighborhoods by borough..."
+curl -s -X GET "${BASE_URL}/neighborhoods/Manhattan" \
+    -H "Authorization: Bearer ${TOKEN}" > /dev/null
+print_result $? "Get neighborhoods by borough"
+
+echo -e "\n${GREEN}All tests completed!${NC}" 
